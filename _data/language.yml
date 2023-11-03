@@ -7,10 +7,10 @@ weapons_tab: 'Armes'
 pawn_kinds_tab: 'Types de colon'
 
 # Table headers
-mod_name_header: Nom de mod
+mod_name_header: Nom du mod
 author_header: Auteur
 version_header: Version
-command_name_header: Nom de command
+command_name_header: Nom de la commande
 user_level_header: Niveau utilisateur
 description_header: Description
 cost_header: Coût
