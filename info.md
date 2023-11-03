@@ -70,28 +70,11 @@ You'll always get a new lootbox everyday.
 <br/>
 ## Le Karma c'est quoi ?
 
-Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
-one time. This system works by directly modifying that amount of coins viewers get everytime the mod
-awards coins. This means that the lower you karma is, the lower your coin gain is. The hope is that
-negative events get spread out more so the colony can recover.
+Le Karma est un système au sein du mod qui permet de limiter la quantité d'event négatifs que pourrait envoyer un viewer. Il modifie simplement la quantité de pièces que vous recevrez chaque cycle. Au plus votre karma est bas, au moins vous toucherez de pièces. L'idée étant de laisser le temps à la colonie de se remettre des événements négatifs.
 
 ## How Do I Use Twitch Toolkit?
 
-You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
-[commands]({{- "/commands" | relative_url -}}). The more important command is the `{{- buy -}}`
-command, which is the mods entry point into purchasing things from the store. Other notable commands
-are the `!mypawn` commands, which allow you see various information about your pawn. We won't cover
-every command here, but most commands should generally be self-descriptive or have a description of
-what they do on the [commands]({{- "/commands" | relative_url -}}) page.
+Vous pouvez utiliser le toolkit de plusieurs façon -- l'essentiel passe par les 
+[commands]({{- "/commands" | relative_url -}}). La commande la plus importante est la commande `{{- buy -}}`
+, c'est grâce à elle que vous pourrez acheter des items/events. Une autre commande importante est la commande `!mypawn`, qui vous permet de consulter les informations de votre colon. Le reste des commandes se comprend assez facilement et/ou est expliqué sur la page [commands]({{- "/commands" | relative_url -}}) .
 
-
-{%- if puppeteer -%}
-<br/>
-## What is Puppeteer?
-
-[Puppeteer](https://steamcommunity.com/sharedfiles/filedetails/?id=2057192142) is a mod by Brrainz that
-allows viewers to directly control their pawns, and even view a number of information about your pawn in
-a graphical way. It also redirects some of the responses from Twitch Toolkit to its website to clean up
-chat a bit. So, if you're logged into Puppeeter and you're wondering why the bot isn't responding to you,
-you should check the `TT` tab on the website first.
-{%- endif -%}
