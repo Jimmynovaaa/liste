@@ -68,7 +68,7 @@ You'll always get a new lootbox everyday.
 
 
 <br/>
-## What is Karma?
+## Le Karma c'est quoi ?
 
 Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
 one time. This system works by directly modifying that amount of coins viewers get everytime the mod
