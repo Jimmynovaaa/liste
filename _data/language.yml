@@ -29,14 +29,14 @@ see_kinds: 'Voir les prix dans la section types de colon'
 see_items: 'Voir les prix dans la section objets'
 
 # Search texts
-search_items: 'Recherche pour objets...'
-search_traits: 'Recherche pour caractéristiques...'
-search_pawn_kinds: 'Recherche pour types de colon...'
-search_mods: 'Recherche pour mods...'
-search_commands: 'Recherche pour commandes...'
-search_animals: 'Recherche pour animaux...'
-search_events: 'Recherche pour événements...'
-search_weapons: 'Recherche pour armes...'
+search_items: 'Rechercher un objet...'
+search_traits: 'Rechercher une caractéristique...'
+search_pawn_kinds: 'Rechercher un type de colon...'
+search_mods: 'Rechercher un mod...'
+search_commands: 'Rechercher une commande...'
+search_animals: 'Rechercher un animal...'
+search_events: 'Rechercher un événement...'
+search_weapons: 'Rechercher une arme...'
 
 # Metadata
 usage: 'Utilisation: %s'
