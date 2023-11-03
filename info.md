@@ -35,8 +35,7 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-# Welcome
-
+# Bienvenue !
 Bienvenue sur le shop rimworld de [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }}).
 On utilise le mod
 [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) pour t'offrir de l'interactivité avec la partie en cours. Il y a beaucoup de choses et tu sera peut-être perdu au début mais ce guide est là pour poser les bases.
@@ -72,7 +71,7 @@ You'll always get a new lootbox everyday.
 
 Le Karma est un système au sein du mod qui permet de limiter la quantité d'event négatifs que pourrait envoyer un viewer. Il modifie simplement la quantité de pièces que vous recevrez chaque cycle. Au plus votre karma est bas, au moins vous toucherez de pièces. L'idée étant de laisser le temps à la colonie de se remettre des événements négatifs.
 
-## How Do I Use Twitch Toolkit?
+## Comment utiliser le toolkit ?
 
 Vous pouvez utiliser le toolkit de plusieurs façon -- l'essentiel passe par les 
 [commands]({{- "/commands" | relative_url -}}). La commande la plus importante est la commande `{{- buy -}}`
