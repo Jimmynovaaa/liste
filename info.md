@@ -4,7 +4,7 @@ layout: page
 permalink: /info
 ---
 
-{%- assign utils = false -%}
+{%- assign utils = true -%}
 {%- assign lootboxes = false -%}
 {%- assign puppeteer = false -%}
 {%- for mod in site.data.modlist -%}
