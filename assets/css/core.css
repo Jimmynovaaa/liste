@@ -1,7 +1,7 @@
 .tab {
     overflow: hidden;
-    border: 1px solid #C84B31;
-    background-color: #161616;
+    border: 1px solid #cccccc;
+    background-color: #f1f1f1;
 }
 
 .tab button {
@@ -15,7 +15,7 @@
 }
 
 .tab button:hover {
-    background-color: #346751;
+    background-color: #cccccc;
 }
 
 .tabContent {
@@ -38,7 +38,7 @@
     width: 100%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #C84B31;
+    border: 1px solid #dddddd;
     margin-bottom: 12px;
 }
 
@@ -71,13 +71,13 @@ td.description {
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
-  color:#ECDBBA;;
+  color:#22527b;;
 }
 span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #ECDBBA;
+    color: #5a5454;
 }
 
 @media screen and (max-width: break) {
@@ -94,7 +94,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #ECDBBA;
+    color: #5a5454;
   }
 }
 
@@ -111,6 +111,6 @@ span.metadata {
   span.metadata {
     font-size: 0.85em;
     font-style: italic;
-    color: #ECDBBA;
+    color: #5a5454;
   }
 }
