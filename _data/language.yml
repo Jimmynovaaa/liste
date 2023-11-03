@@ -1,7 +1,7 @@
 # Tabs
 items_tab: 'Objets'
 events_tab: 'Evénements'
-traits_tab: 'Caractéristiques'
+traits_tab: 'Traits'
 animals_tab: 'Animaux'
 weapons_tab: 'Armes'
 pawn_kinds_tab: 'Types de colon'
@@ -24,7 +24,7 @@ name_header: Nom
 no_commands: 'Ce ne sont pas les commandes que vous recherchez.'
 
 # Redirect messages
-see_traits: 'Voir les prix dans la section caractéristiques'
+see_traits: 'Voir les prix dans la section traits'
 see_kinds: 'Voir les prix dans la section types de colon'
 see_items: 'Voir les prix dans la section objets'
 
@@ -47,4 +47,4 @@ from: 'Depuis %s'
 weight: 'Poids'
 limit: 'Limite'
 karma: 'Karma'
-bypasses_limit: 'Cette caractéristique peu dépasser la limite des caractéristiques'
+bypasses_limit: 'Ce trait peu dépasser la limite des traits'
