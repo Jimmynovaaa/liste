@@ -37,32 +37,25 @@ permalink: /info
 
 # Welcome
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
-This stream uses the mod
-[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
-interactive experience. There's a lot to the mod that may seem complicated to even more experienced
-users, but this short guide will help you get the hang of things.
+Bienvenue sur le shop rimworld de [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }}).
+On utilise le mod
+[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) pour t'offrir de l'interactivité avec la partie en cours. Il y a beaucoup de choses et tu sera peut-être perdu au début mais ce guide est là pour poser les bases.
 
-## What is Twitch Toolkit?
+## Twitch Toolkit c'est quoi ?
 
-Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
-most prominent is its [store]({{- "/" | relative_url -}}), which allows you to purchase a number of
-things the streamer curated. Depending on the purchase, these things appear in-game or affect the
-game in some way. Another way viewers can interact with the game is through the mod's polls. The
-choices in these polls depend heavily on what's enabled in the mod.
+Twitch Toolkit est un mod par hodlhodl (et repris par Nry, Sirrandoo et d'autres)  qui permet aux viewers d'avoir un impact sur la partie. La première façon c'est via le [store]({{- "/" | relative_url -}}), qui te permet d'acheter des objets/events parmis ceux que j'ai sélectionné. Les sondages sont une autre façon d'interagir, ils tombent réguliérement et proposent plusieurs issues aux viewers qui votent dans le chat.
 
-## What Are Coins?
+## Les pièces
 
-Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
+C'est la monnaie du mod. Tu peux voir combien tu en possèdes avec la commande `{{ bal }}`. 
 
 {% if utils == true %}
-You'll notice the balance command may have some new emojis. If that's the case, here is an overview
-of the emojis as follows:
+Cette commande utilise des emojis pour réduire la taille des messages. Voici leur signification :
 
-- 💰 represents the amount of coins you current have.
-- ⚖ represents your current karma.
-- 📈 represents the amount of coins you gain everytime the mod awards coins.
-- 📉 represents the amount of coins you lose everytime to mod awards coins.
+- 💰 représente la quantité de pièces que tu possèdes.
+- ⚖ représente ton karma.
+- 📈 représente la quantité de pièces que tu touches chaque cycle.
+- 📉 représente la quantité de pièces que tu perds chaque cycle.
 
 {% endif %}
 
