@@ -1,7 +1,7 @@
 # Metadata
 title: "Le Shop des Abeilles"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: Une version customisée de la liste des objets du Toolkit pour supporter toutes les dernières fonctionalités de Utils.
 
 baseurl: '/liste' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
