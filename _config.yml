@@ -68,6 +68,6 @@ mods:
   author: true
 
 # Build settings
-# remote_theme: SirRandoo/Type-on-Strap
-# plugins:
-#  -
+remote_theme: SirRandoo/Type-on-Strap
+plugins:
+  -
