@@ -4,6 +4,9 @@ layout: page
 permalink: /info
 ---
 
+<link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} "/>
+<script src="{{- 'assets/js/core.js' | relative_url -}}"></script>
+
 {%- assign utils = true -%}
 {%- assign lootboxes = false -%}
 {%- assign puppeteer = false -%}

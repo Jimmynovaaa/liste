@@ -32,6 +32,11 @@
     border-top: none;
 }
 
+header.site-header > nav > ul > li:not(.separator) > a.active {
+  color: var(--link);
+  text-decoration: underline;
+}
+
 @keyframes fadeEffect {
     from {
         opacity: 0;
