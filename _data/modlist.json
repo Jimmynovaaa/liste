@@ -1,4 +1,4 @@
-[][
+[
   {
     "author": "Joedox",
     "name": "Achtung! [Fr]",
@@ -25,6 +25,18 @@
   },
   {
     "author": "Joedox",
+    "name": "Better Workbench Management [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nandonalt",
+    "name": "Colony Leadership (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
     "name": "Combat Extended [Fr]",
     "steamId": null,
     "version": null
@@ -37,13 +49,73 @@
   },
   {
     "author": "Joedox",
+    "name": "Damage Indicators [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Dubs Mint Menus [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Dubs Mint Minimap [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
     "name": "Geological Landforms [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "I Clearly Have Enough! (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Mod Error Checker",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wanzimar",
+    "name": "No Headstone Till Buried",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Owlchemist Mega Pack [Fr]",
     "steamId": null,
     "version": null
   },
   {
     "author": "Joedox",
     "name": "Quality Colors [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Quarry [Fr]",
     "steamId": null,
     "version": null
   },
@@ -60,24 +132,6 @@
     "version": null
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Joedox",
     "name": "Vanilla Skills Expanded [Fr]",
     "steamId": null,
@@ -86,6 +140,12 @@
   {
     "author": "PresGD",
     "name": "Zombieland Storyteller",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Zombieland [Fr]",
     "steamId": null,
     "version": null
   },
