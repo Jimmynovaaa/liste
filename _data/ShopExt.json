@@ -1873,7 +1873,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "humain",
-      "price": 2917
+      "price": 2700
     },
     {
       "data": {
@@ -1899,9 +1899,9 @@
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A zombie",
+      "description": "Un zombie.",
       "defName": "Zombie",
-      "enabled": true,
+      "enabled": false,
       "name": "Zombie",
       "price": 1
     }
