@@ -174,7 +174,7 @@
     },
     "description": null,
     "name": "Purchase list",
-    "usage": "!purchaselist",
+    "usage": "!shop",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PurchaseList"
@@ -1214,14 +1214,14 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitRaids"
+      "mod": "ToolkitAddon - More Stuff"
     },
     "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
+    "name": "Clean the Map",
+    "usage": "!cleanup",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "JoinRaid"
+    "defName": "cleanup"
   },
   {
     "data": {
@@ -1240,5 +1240,23 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitRaids"
+    },
+    "description": null,
+    "name": "joinraid",
+    "usage": "!joinraid",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "JoinRaid"
   }
 ]
