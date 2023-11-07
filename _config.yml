@@ -64,7 +64,7 @@ commands:
 
 mods:
   # Whether or not the mod list will display the mod's version.
-  version: true
+  version: false
   # Whether or not the mod list will display the mod's author(s).
   author: true
 
