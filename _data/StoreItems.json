@@ -7483,11 +7483,65 @@
       "price": 333
     },
     {
-      "abr": "zombrella",
+      "abr": "invitélit",
+      "category": "Meubles",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "invitélitdouble",
+      "category": "Meubles",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "invitélitroyal",
+      "category": "Meubles",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "invitélitmédicalisé",
+      "category": "Meubles",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "invitésacdecouchage",
+      "category": "Meubles",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "invitésacdecouchagedouble",
+      "category": "Meubles",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "invitélitdedalle",
+      "category": "Meubles",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "invitélitdoublededalle",
+      "category": "Meubles",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "invitécercueilmédicalisé",
       "category": "Divers",
-      "defname": "Zombrella",
-      "price": 3333
+      "defname": "DeathrestCasketGuest",
+      "price": 492
+    },
+    {
+      "abr": "invitéberceau",
+      "category": "Meubles",
+      "defname": "CribGuest",
+      "price": 86
     }
   ],
-  "total": 1248
+  "total": 1257
 }

@@ -389,7 +389,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy a une attirance envers les personnes du même sexe que le sien.",
@@ -411,7 +411,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy éprouve de l'attirance aussi bien pour les hommes que pour les femmes.",
@@ -433,7 +433,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy n'a aucune attirance sexuelle pour quiconque.",
