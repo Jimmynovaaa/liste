@@ -69,6 +69,8 @@ mods:
   author: true
 
 # Build settings
-remote_theme: sylhare/Type-on-Strap
+# @see https://github.com/sylhare/Type-on-Strap/pull/406
+# We can re-use `sylhare/Type-on-Strap` once merged
+remote_theme: pocivaneuh/Type-on-Strap@dark-mode-improvements
 plugins:
   -
