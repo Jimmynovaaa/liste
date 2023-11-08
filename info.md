@@ -81,7 +81,7 @@ Vous pouvez utiliser le toolkit de plusieurs façon -- l'essentiel passe par les
 , c'est grâce à elle que vous pourrez acheter des items/events. Une autre commande importante est la commande `!mypawn`, qui vous permet de consulter les informations de votre colon. Le reste des commandes se comprend assez facilement et/ou est expliqué sur la page [commands]({{- "/commands" | relative_url -}}) .
 
 ## Les armes et recherche 
-Petite Armurerie : Carabine de Survie - Revolver - Fusil à Pompe  
-Patite Artillerie Auto : Desert Eagle - Glock 17 - AK74U - Pistolet Mitrailleur - Pistolet Mitrailleur Lourd  
-Artillerie Auto Perfectionnée : AA-12 - FN MAG - Fusil à pompe auto - M249 - MAC10 - Mitrailleuse - Uzi - UMP45  
-Armes de Précision : Fusil d'Assault - Fusil de Précision - FAMAS F1 - AK47 - Dragunov - Gol Magnum - M24  
+**Petite Armurerie :** Carabine de Survie - Revolver - Fusil à Pompe  
+**Patite Artillerie Auto :** Desert Eagle - Glock 17 - AK74U - Pistolet Mitrailleur - Pistolet Mitrailleur Lourd  
+**Artillerie Auto Perfectionnée :** AA-12 - FN MAG - Fusil à pompe auto - M249 - MAC10 - Mitrailleuse - Uzi - UMP45  
+**Armes de Précision :** Fusil d'Assault - Fusil de Précision - FAMAS F1 - AK47 - Dragunov - Gol Magnum - M24  
