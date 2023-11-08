@@ -28,7 +28,7 @@ store:
     stats: true
     karma: true
     limit: true
-    description: true
+    description: false
     usage: false
     mod: true
   kinds:
