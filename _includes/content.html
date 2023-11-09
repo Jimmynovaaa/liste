@@ -21,9 +21,15 @@
 
                 {%- if priceHeaders contains header -%}
                     <th class="price">{{- header -}}</th>
-                {%- else -%}
-                    <th>{{- header -}}</th>
+                    {%- continue -%}
                 {%- endif -%}
+
+                {%- if header == site.data.language.category_header -%}
+                    <th class="category">{{- header -}}</th>
+                    {%- continue -%}
+                {%- endif -%}
+
+                <th>{{- header -}}</th>
             {%- endfor -%}
         </tr>
     </thead>
