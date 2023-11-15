@@ -192,7 +192,7 @@
     },
     "description": "Gives a viewer some of your coins.",
     "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
+    "usage": "!gift <viewer> <amount>",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "GiftCoins"
@@ -642,7 +642,7 @@
     },
     "description": null,
     "name": "Viewer kill count",
-    "usage": "!mypawnkills",
+    "usage": "!mykills",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnKills"
@@ -660,7 +660,7 @@
     },
     "description": "Shows your current stats within a given category.",
     "name": "Viewer stats",
-    "usage": "!mypawnstats [stat1] [stat2]",
+    "usage": "!mystats [stat1] [stat2]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnStats"
@@ -678,7 +678,7 @@
     },
     "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
     "name": "Viewer health",
-    "usage": "!mypawnhealth [capacity]",
+    "usage": "!myhealth [capacity]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnHealth"
@@ -696,7 +696,7 @@
     },
     "description": null,
     "name": "Viewer needs",
-    "usage": "!mypawnneeds",
+    "usage": "!myneeds",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnNeeds"
@@ -732,7 +732,7 @@
     },
     "description": null,
     "name": "Viewer body",
-    "usage": "!mypawnbody",
+    "usage": "!mybody",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnBody"
@@ -750,7 +750,7 @@
     },
     "description": "Shows your pawn's work priorities.",
     "name": "Viewer work",
-    "usage": "!mypawnwork [worktype=priority] [...]",
+    "usage": "!mywork [worktype=priority] [...]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnWork"
@@ -768,7 +768,7 @@
     },
     "description": null,
     "name": "Viewer story",
-    "usage": "!mypawnstory",
+    "usage": "!mystory",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnStory"
@@ -786,7 +786,7 @@
     },
     "description": null,
     "name": "Viewer skills",
-    "usage": "!mypawnskills",
+    "usage": "!myskills",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnSkills"
@@ -858,7 +858,7 @@
     },
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
-    "usage": "!mypawnrelations [viewer]",
+    "usage": "!myrelations [viewer]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PawnRelations"
