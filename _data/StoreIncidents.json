@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -56,6 +66,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "toxicfallout",
+		"price": 6500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
@@ -63,6 +78,16 @@
 	{
 		"abr": "eclipse",
 		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "aurora",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "blight",
+		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
@@ -79,6 +104,11 @@
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "madanimal",
+		"price": 200,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
@@ -116,6 +146,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "alphabeavers",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "shippartpoison",
 		"price": 1900,
 		"karmatype": "Bad"
@@ -136,6 +171,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -151,8 +191,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -316,5 +366,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 63
+	"total": 73
 }
