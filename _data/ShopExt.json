@@ -1775,25 +1775,281 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy fuit toujours le danger. il est généralement le premier à fuir une bataille.",
+      "degree": 0,
+      "description": "Timmy profite de la solitude et de la tranquillité inhérentes aux longues sessions de pêche. il préférera la pêche aux autres activités.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "pêcheur"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est entombéPAWN_gender ? : e  dans un warcasket. Aucune douleur n'aura d'effet sur lui, et il ne pourra jamais subir un choc à la douleur ou perdre connaissance à cause de la douleur. À cause de l'encombrement de l'armure et de la quantité d'énergie nécessaire pour l'utiliser, Timmy n'est plus en mesure d'effectuer le moindre travail.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait",
+      "name": "warcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a été entombé dans un warcasket, puis brutalement retiré de celui-ci. Les lésions neurales et nerveuses causées par le débranchement sont si graves que Timmy souffre constamment de douleurs atroces et peut à peine rassembler ses pensées. Seule la réinstallation de Timmy dans un warcasket peut guérir les symptômes.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Factions Expanded - Pirates",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_Shellcasket",
+      "name": "horsduwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Le corps ou l'esprit de Timmy est remplit de perspicacité et d'expérience. Alors que certains les trouvent démodés, d'autres respecteront leurs conseils.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "aîné"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "text.todo",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est toujours prêtPAWN_gender ? : e  à faire un commentaire charmant ou un compliment plaisant, ce qui remonte le moral de ceux qui l'entourent. il a le don de faire en sorte que les autres se sentent spéciaux et désirés, mais cela peut parfois conduire à des situations compliquées lorsque ses intentions ludiques sont mal interprétées.",
+      "stats": [],
+      "conflicts": [
+        "incisif",
+        "psychopathe"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "incisif",
+          "psychopathe"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirt"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est exceptionnellement empathique et sensible à la souffrance des autres. Chaque fois qu'il est témoin d'une souffrance ou d'une épreuve, cela l'affecte profondément et les souvenirs de ces événements lPAWN_gender ? e : a  hantent pendant très longtemps.",
+      "stats": [],
+      "conflicts": [
+        "sanguinaire",
+        "psychopathe"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sanguinaire",
+          "psychopathe"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "bouleversé"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a tendance à laisser son esprit dériver de temps en temps, même en plein travail.",
       "stats": [
-        "+25% suppression de tir"
+        "x50% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "bourreaudetravail"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bourreaudetravail"
+        ],
+        "stats": [
+          "x50% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AbsentMinded",
+      "name": "distrait"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a une ou deux vis desserrées, un petit compromis pour être naturellement enclin à la science.",
+      "stats": [
+        "x115% vitesse de recherche"
+      ],
+      "conflicts": [
+        "cancre"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cancre"
+        ],
+        "stats": [
+          "x115% vitesse de recherche"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Eccentric",
+      "name": "excentrique"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy recherche la perfection dans son travail. il produira naturellement des produits de meilleure qualité au détriment du temps. Cependant, la fabrication d'un produit de mauvaise qualité lPAWN_gender ? e : a  contrarie. De plus, il est très rare qu'il abandonne un projet en cours de route si il n'aime pas la direction que cela prend.",
+      "stats": [
+        "x65% vitesse générale de travail"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "+25% suppression de tir"
+          "x65% vitesse générale de travail"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
+        "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "Bravery",
+      "defName": "VTE_Perfectionist",
+      "name": "perfectionniste"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Bien qu'il soit tout à fait capable de faire la guerre en théorie, l'instinct de combat ou de fuite de Timmy penche fortement vers la fuite, et il essaiera de se cacher ou de fuir en priorité.",
+      "stats": [],
+      "conflicts": [
+        "courageux",
+        "sanguinaire",
+        "cogneur"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "courageux",
+          "sanguinaire",
+          "cogneur"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Coward",
       "name": "lâche"
     },
     {
@@ -1801,25 +2057,43 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 1,
-      "description": "Peu de choses effraient Timmy. Au combat, il reste imperturbable là où d'autres paniquent et fuient.",
+      "degree": 0,
+      "description": "Timmy a une plus grande force mentale et physique que la plupart des gens et il peut s'adapter plus facilement aux environnements difficiles de rimworld.",
       "stats": [
-        "-50% suppression de tir"
+        "-20% seuil de crise de nerfs",
+        "+20% seuil de choc à la douleur",
+        "x25% facteur de perte de certitude globale"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "lâche",
+        "volontédefer",
+        "déterminé",
+        "nerveux",
+        "mauviette",
+        "douillet"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "lâche",
+          "volontédefer",
+          "déterminé",
+          "nerveux",
+          "mauviette",
+          "douillet"
+        ],
         "stats": [
-          "-50% suppression de tir"
+          "-20% seuil de crise de nerfs",
+          "+20% seuil de choc à la douleur",
+          "x25% facteur de perte de certitude globale"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
+        "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "Bravery",
+      "defName": "VTE_Brave",
       "name": "courageux"
     },
     {
@@ -1827,26 +2101,1346 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy rit face au danger. Certains attribuent cela à la bravoure, d'autres à la stupidité. Quoi qu'il en soit, Timmy semble dépourvu de tout sens de la survie et ne fuira jamais une situation menaçante.",
+      "degree": 0,
+      "description": "Timmy est trop souvent victime d'ecchymoses et d'égratignures mineures, principalement dues à des trébuchements ou à des chutes non coordonnés.",
+      "stats": [],
+      "conflicts": [
+        "agile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "agile"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Clumsy",
+      "name": "maladroit"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy aime la luminosité et la chaleur d'une journée d'été sèche. il n'a pas non plus peur de transpirer ou de dormir dans la chaleur.",
       "stats": [
-        "-100% suppression de tir"
+        "+10.0C Température maximale de confort"
       ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
         "stats": [
-          "-100% suppression de tir"
+          "+10.0C Température maximale de confort"
         ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Combat Extended",
+        "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
-      "defName": "Bravery",
-      "name": "sanspeur"
+      "defName": "VTE_HeatInclined",
+      "name": "enclinàlachaleur"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy aime le ciel couvert et la fraîcheur d'une nuit d'hiver. il n'a pas non plus peur de se geler ou de dormir dans le froid.",
+      "stats": [
+        "-10.0C Température minimale de confort"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-10.0C Température minimale de confort"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ColdInclined",
+      "name": "enclinaufroid"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Une bombe pourrait exploser à côté de Timmy pendant son sommeil qu'il continuerait à dormir. il ne se soucie pas non plus de défendre la colonie pendant sa sieste.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_HeavySleeper",
+      "name": "sommeilprofond"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est naturellement hygiénique et organisPAWN_gender ? é : ée . il ne laissera ni traîner de saletés ni jeter de déchets n'importe où, et se sentira heureuPAWN_gender ? x : se  en faisant le ménage.",
+      "stats": [],
+      "conflicts": [
+        "négligé"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "négligé"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Neat",
+      "name": "propre"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est naturellement négligPAWN_gender ? é : ée  et laisse traîner ses affaires et ses saletés partout. Au moins, il n'est pas dérangPAWN_gender ? é : ée  par le désordre.",
+      "stats": [],
+      "conflicts": [
+        "propre"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "propre"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Slob",
+      "name": "négligé"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a du mal à faire des pauses ou à se reposer pendant son travail. il continuera à travailler même en sacrifiant sa santé ou son sommeil.",
+      "stats": [],
+      "conflicts": [
+        "distrait"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "distrait"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Workaholic",
+      "name": "bourreaudetravail"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy n'a jamais eu de nausées de sa vie. Les vomissements ou les intoxications alimentaires lui sont étrangers.",
+      "stats": [],
+      "conflicts": [
+        "sensible"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sensible"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_IronStomach",
+      "name": "estomacd'acier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy ne supporte pas le mauvais traitement sur les animaux. il se sentira plus heureuPAWN_gender ? x : se  en étant câliné ou en étant le maître d'un animal lié, mais il sera plus profondément anéantPAWN_gender ? i : ie  si il n'est pas le maître d'un animal lié ou si il en voit un mourir. il refuse également de faire le travail de boucherie.",
+      "stats": [],
+      "conflicts": [
+        "détestelesanimaux"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "détestelesanimaux"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AnimalLover",
+      "name": "passionnéd'animaux"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy croit profondément en la supériorité de l'homme. Tuer des animaux lui fait plaisir et la perte d'un animal dans la colonie est la cerise sur le gâteau selon il.",
+      "stats": [],
+      "conflicts": [
+        "passionnéd'animaux",
+        "personneàchat",
+        "personneàchien",
+        "animalier"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "passionnéd'animaux",
+          "personneàchat",
+          "personneàchien",
+          "animalier"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AnimalHater",
+      "name": "détestelesanimaux"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Que ce soit parce qu'il est un peu costaud ou parce qu'il déplace son corps bizarrement, Timmy a cassé quelques chaises en son temps et il en cassera probablement d'autres.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_BigBoned",
+      "name": "grosos"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy n'obéit qu'à ses propres règles, et lève les yeux au ciel et se la coule douce tout en accomplissant les tâches qu'on lui impose.",
+      "stats": [
+        "x25% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "soumis"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "soumis"
+        ],
+        "stats": [
+          "x25% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Rebel",
+      "name": "rebelle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a besoin d'instructions claires sur comment et quand faire certaines choses et travaillera à une vitesse normale uniquement lorsqu'il sera forcPAWN_gender ? é : ée  à le faire.",
+      "stats": [
+        "x200% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "rebelle"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "rebelle"
+        ],
+        "stats": [
+          "x200% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Submissive",
+      "name": "soumis"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est alimentPAWN_gender ? é : ée  par la rancune. il ne supporte pas de fouler le même sol que ses rivaux et se réjouira en apprenant leur mort.",
+      "stats": [
+        "x25% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "aimable"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "aimable"
+        ],
+        "stats": [
+          "x25% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Vengeful",
+      "name": "rancunier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Que ce soit par un traumatisme passé ou par peur du changement, Timmy rejette la modernité. il peut frapper ou attaquer des appareils mécaniques au hasard et refuse d'apprendre ou de faire des recherches à leur sujet. il adore également tuer des mécanoïdes.",
+      "stats": [
+        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+      ],
+      "conflicts": [
+        "transhumaniste"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "transhumaniste"
+        ],
+        "stats": [
+          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Technophobe",
+      "name": "technophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy se souvient toujours des bons moments et vit pour faire la fête, toute fête à laquelle il participe restera dans sa mémoire bien plus longtemps que la plupart des autres.",
+      "stats": [],
+      "conflicts": [
+        "anxieux"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "anxieux"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_FunLoving",
+      "name": "fêtard"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a des capacités mentales réduites. Bien qu'il soit lenPAWN_gender ? t : te  à apprendre, il est difficile de parler avec il, il a tendance à être beaucoup plus heureuPAWN_gender ? x : se  naturellement.",
+      "stats": [
+        "-50% facteur d'apprentissage global",
+        "-50.00% impact des discussions",
+        "x300% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "académicien",
+        "excentrique",
+        "prodige",
+        "magnat",
+        "perspicace",
+        "tropintelligent"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "académicien",
+          "excentrique",
+          "prodige",
+          "magnat",
+          "perspicace",
+          "tropintelligent"
+        ],
+        "stats": [
+          "-50% facteur d'apprentissage global",
+          "-50.00% impact des discussions",
+          "x300% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Dunce",
+      "name": "cancre"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a appris un mouvement spécifique en combat de mêlée qui lui permet de désarmer ses adversaires et l'utilisera fréquemment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_MartialArtist",
+      "name": "artmartial"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est persuadPAWN_gender ? é : ée  d'appartenir à la haute société et adore critiquer l'art et côtoyer la royauté.",
+      "stats": [],
+      "conflicts": [
+        "ascétique"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascétique"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Snob",
+      "name": "snob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a l'estomac fragile dès qu'il y a trop de sang ou de cadavres en décomposition. Vomir fait partie de sa vie.",
+      "stats": [],
+      "conflicts": [
+        "insensible",
+        "estomacd'acier",
+        "sanguinaire"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "insensible",
+          "estomacd'acier",
+          "sanguinaire"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Squeamish",
+      "name": "sensible"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est naturellement anxieuPAWN_gender ? x : se , surtout des situations sociales. il n'assistera à aucun rassemblement et pourra occasionnellement avoir besoin de temps seuPAWN_gender ? l : le  dans sa chambre pour respirer.",
+      "stats": [
+        "Only mental break \"VTE_PanicFreezing\" allowed.",
+        "x200% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "fêtard"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fêtard"
+        ],
+        "stats": [
+          "Only mental break \"VTE_PanicFreezing\" allowed.",
+          "x200% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Anxious",
+      "name": "anxieux"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy n'a jamais assez d'amour. il a tendance à passer de partenaire en partenaire et à se jeter dans les draps fréquemment avec ces conquêtes.",
+      "stats": [
+        "x200% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "prude",
+        "asexuel"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "prude",
+          "asexuel"
+        ],
+        "stats": [
+          "x200% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Insatiable",
+      "name": "insatiable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy refuse de donner son corps à qui que ce soit d'autre que son conjoint et ne songerait jamais à entamer un divorce. il déteste également être nu, bien plus que les autres colons.",
+      "stats": [
+        "x50% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "insatiable",
+        "nudiste"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "insatiable",
+          "nudiste"
+        ],
+        "stats": [
+          "x50% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Prude",
+      "name": "prude"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Un fauteuil et un écran plat, c'est tout ce dont Timmy a besoin pour être heureuPAWN_gender ? x : se . Même les rediffusions ou les anciennes publicités sont divertissantes pour il, il ne se lassera jamais de la télévision et aura tendance à la regarder davantage, tout en se sentant heureuPAWN_gender ? x : se  après l'avoir fait.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_CouchPotato",
+      "name": "accrocaucanapé"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est fPAWN_gender ? ou : olle  de tout ce qui est félin. il s'attache naturellement aux chats, et il n'est pas fan des chiens.",
+      "stats": [],
+      "conflicts": [
+        "personneàchien"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "personneàchien"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_CatPerson",
+      "name": "personneàchat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est fPAWN_gender ? ou : olle  de tout ce qui est canin. il s'attache naturellement aux chiens, et il n'est pas fan des chats.",
+      "stats": [],
+      "conflicts": [
+        "personneàchat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "personneàchat"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_DogPerson",
+      "name": "personneàchien"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est uPAWN_gender ? n : ne  scientifique né. il fait les recherches beaucoup plus rapidement et se souvient mieux des choses. Cependant, il sera contrariPAWN_gender ? é : ée  sans un laboratoire dédié à son travail et aura tendance à stresser plus fréquemment.",
+      "stats": [
+        "+20% seuil de crise de nerfs",
+        "x130% vitesse de recherche"
+      ],
+      "conflicts": [
+        "cancre"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cancre"
+        ],
+        "stats": [
+          "+20% seuil de crise de nerfs",
+          "x130% vitesse de recherche"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Prodigy",
+      "name": "prodige"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy pense que les animaux font partie intégrante du fonctionnement de la société et de la vie, qu'il s'agisse d'amis à fourrure ou de sources de nourriture. il aime en avoir le plus possible et il est particulièrement douPAWN_gender ? é : ée  pour les apprivoiser et les dresser.",
+      "stats": [
+        "x120% probabilité d'apprivoiser un animal",
+        "x120% probabilité de dresser des animaux"
+      ],
+      "conflicts": [
+        "détestelesanimaux"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "détestelesanimaux"
+        ],
+        "stats": [
+          "x120% probabilité d'apprivoiser un animal",
+          "x120% probabilité de dresser des animaux"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Menagerist",
+      "name": "animalier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "La mer appelle Timmy. il est plus heureuPAWN_gender ? x : se  lorsqu'il est près de l'océan ou d'une rivière profonde.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ChildOfSea",
+      "name": "amoureuxdel'océan"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "La montagne appelle Timmy. il se sent plus heureuPAWN_gender ? x : se  rien qu'en étant près d'une grande montagne.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ChildOfMountain",
+      "name": "amoureuxdelamontagne"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a un secret tordu. il traite le prélèvement d'organes comme une expérience médicale, et ne cligne même pas des yeux à cette idée. Le prélèvement d'organe lPAWN_gender ? e : a  rendra heureuPAWN_gender ? x : se , mais rester trop longtemps sans céder à sa pulsion lPAWN_gender ? e : a  bouleversera.",
+      "stats": [
+        "+20% facteur de succès en chirurgie"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% facteur de succès en chirurgie"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_MadSurgeon",
+      "name": "chirurgienfou"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est censPAWN_gender ? é : ée  être uPAWN_gender ? n : ne  spécialiste du combat à mains nues, mais seulement lorsqu'il est ivre. il prétend devenir plus talentueuPAWN_gender ? x : qe  à mesure qu'il s'enivre.",
+      "stats": [
+        "+4 mêlée"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 mêlée"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_DrunkenMaster",
+      "name": "maîtreivre"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est poussPAWN_gender ? é : ée  à voler et à prendre des choses qui ne lui appartiennent pas, même si cela doit mettre en colère l'autre personne.",
+      "stats": [
+        "Only mental break \"VTE_Kleptomaniac\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Only mental break \"VTE_Kleptomaniac\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Kleptomaniac",
+      "name": "cleptomanie"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Pour Timmy, la culture du tabac fait partie de la vie. il adore le tabac et préférerait mourir plutôt que de l'abandonner.",
+      "stats": [],
+      "conflicts": [
+        "importantetendancetoxicomaniaque",
+        "tendancetoxicomaniaque",
+        "révulsédesproduitsstupéfiants"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "importantetendancetoxicomaniaque",
+          "tendancetoxicomaniaque",
+          "révulsédesproduitsstupéfiants"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Stoner",
+      "name": "fumeurdejoints"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Pour Timmy, la culture de l'alcool fait partie de la vie. il adore l'alcool et préférerait mourir plutôt que de s'en passer.",
+      "stats": [],
+      "conflicts": [
+        "importantetendancetoxicomaniaque",
+        "tendancetoxicomaniaque",
+        "révulsédesproduitsstupéfiants"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "importantetendancetoxicomaniaque",
+          "tendancetoxicomaniaque",
+          "révulsédesproduitsstupéfiants"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Lush",
+      "name": "ivrogne"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy adore voyager et le fait rapidement, mais il peut être contrarié si il n'a pas voyagé depuis un certain temps. il est également très douPAWN_gender ? é : ée  pour la recherche de nourriture lors de ses déplacements.",
+      "stats": [
+        "+0.2 quantité de nourriture (cueillette)"
+      ],
+      "conflicts": [
+        "hommetaupe"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "hommetaupe"
+        ],
+        "stats": [
+          "+0.2 quantité de nourriture (cueillette)"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Wanderlust",
+      "name": "nomade"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy n'est jamais vraiment endormPAWN_gender ? i : ie  ou éveillPAWN_gender ? é : ée . il est presque comme un zombie, il avance en titubant et travaille très lentement, il ne dort qu'une fois tous les trois jours environ.",
+      "stats": [
+        "x50% vitesse générale de travail",
+        "x70% vitesse de déplacement",
+        "x50% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "sommeilprofond"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sommeilprofond"
+        ],
+        "stats": [
+          "x50% vitesse générale de travail",
+          "x70% vitesse de déplacement",
+          "x50% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Insomniac",
+      "name": "insomniaque"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy s'est lassPAWN_gender ? é : ée  du monde et a besoin d'être constamment distraiPAWN_gender ? t : te  pour arrêter ses pensées sombres. Sa personnalité morose est très déprimante et il est donc très difficile de devenir amPAWN_gender ? i : ie  avec il.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_WorldWeary",
+      "name": "insatisfait"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy s'est endurcPAWN_gender ? i : ie  par un traumatisme émotionnel que nous supposons ancien. il ne ressent absolument rien suite à la perte d’un animal, d’un colon, d’un membre de sa famille, d’un prisonnier ou à la vue d’un cadavre.",
+      "stats": [
+        "x50% facteur de perte de certitude globale"
+      ],
+      "conflicts": [
+        "sensible"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sensible"
+        ],
+        "stats": [
+          "x50% facteur de perte de certitude globale"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Desensitized",
+      "name": "insensible"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Seules les créations culinaires les plus raffinées peuvent franchir les lèvres de Timmy. il est neutre à l'égard des repas banals, mais loue et savoure les repas gastronomiques jusqu'à la dernière miette.",
+      "stats": [
+        "x70% vitesse d'ingestion"
+      ],
+      "conflicts": [
+        "ascétique"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascétique"
+        ],
+        "stats": [
+          "x70% vitesse d'ingestion"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_RefinedPalate",
+      "name": "palaisraffiné"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Que ce soit par l'étude de manuscrits anciens ou par des années d'études, Timmy est étonnamment bien informPAWN_gender ? é : ée  sur une variété de sujets, en particulier la science et la pratique médicale.",
+      "stats": [
+        "+4 intellectuel",
+        "+4 médecine",
+        "+20% qualité des soins médicaux"
+      ],
+      "conflicts": [
+        "cancre"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cancre"
+        ],
+        "stats": [
+          "+4 intellectuel",
+          "+4 médecine",
+          "+20% qualité des soins médicaux"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Academian",
+      "name": "académicien"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est convaincPAWN_gender ? u : ue  que l'infrastructure est le maître mot et il est uPAWN_gender ? n : ne  tailleuPAWN_gender ? r : qe  de pierre nPAWN_gender ? é : ée .",
+      "stats": [
+        "+4 minage",
+        "+4 construction",
+        "+20% rendement minier",
+        "+20% vitesse de construction"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 minage",
+          "+4 construction",
+          "+20% rendement minier",
+          "+20% vitesse de construction"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Groundbreaker",
+      "name": "pionnier"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Aux yeux de Timmy, la nourriture est un art. Ses créations culinaires sont incroyablement belles, incroyables à déguster et presque toujours saines à manger.",
+      "stats": [
+        "+4 cuisine",
+        "+4 artiste",
+        "-25.00% risque d'intoxication alimentaire"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 cuisine",
+          "+4 artiste",
+          "-25.00% risque d'intoxication alimentaire"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Gastronomist",
+      "name": "gastronome"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "La flore et la faune sont toutes deux vitales pour Timmy. il utilise toutes les parties des plantes et des animaux et apprécie fortement les bienfaits de mère Gaia.",
+      "stats": [
+        "+4 animaux",
+        "+4 agriculture",
+        "+20% rendement de récolte des plantes",
+        "+20% efficacité du dépeçage"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 animaux",
+          "+4 agriculture",
+          "+20% rendement de récolte des plantes",
+          "+20% efficacité du dépeçage"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Ecologist",
+      "name": "écologiste"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a un œil pour l'argent et une langue qui en découle. il est convaincPAWN_gender ? u : ue  que ses produits sont les meilleurs et il saura probablement vous convaincre si vous lui en donnez l'occasion.",
+      "stats": [
+        "+4 sociabilité",
+        "+4 artisanat",
+        "+25.00% amélioration des prix commerciaux"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 sociabilité",
+          "+4 artisanat",
+          "+25.00% amélioration des prix commerciaux"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Tycoon",
+      "name": "magnat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est étrangement hypercoagulant et saigne beaucoup moins que la plupart des gens.",
+      "stats": [],
+      "conflicts": [
+        "peaufine"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "peaufine"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ThickSkinned",
+      "name": "peaudure"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est étrangement hémophile et a tendance à saigner plus abondamment que les autres.",
+      "stats": [],
+      "conflicts": [
+        "peaudure"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "peaudure"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ThinSkinned",
+      "name": "peaufine"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy a du mal à s'exprimer jusqu'à ce que tout soit trop lourd à porter, après quoi il s'effondre complètement.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Schizoid",
+      "name": "schizoïdie"
     }
   ],
   "races": [
@@ -1856,9 +3450,6 @@
         "stats": [
           "+60.00 Poids",
           "+70% Inflammabilité",
-          "+1.0 Probabilité d'esquiver en mêlée",
-          "+100% Chance de critique en mêlée",
-          "+100% Chance de parade en mêlée",
           "+1750 € Valeur marchande",
           "+4.60 Vitesse de déplacement",
           "+16.0C Température minimale de confort",
@@ -1874,36 +3465,6 @@
       "enabled": true,
       "name": "humain",
       "price": 2700
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Poids",
-          "+100% Inflammabilité",
-          "-60.0C Température minimale de confort",
-          "+200.0C Température maximale de confort",
-          "+0% Sensibilité psychique",
-          "+0% Résistance à la toxicité",
-          "+0 Quantité de viande",
-          "+0 Quantité de cuir",
-          "+0 Capacité de transport",
-          "+0.00% Impact des discussions",
-          "+0 Armure - Contondant",
-          "+0 Armure - Perforant",
-          "+0.0% Armure - Protection thermique",
-          "+0.1 Probabilité d'esquiver en mêlée",
-          "+10% Chance de critique en mêlée",
-          "+5% Chance de parade en mêlée"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Un zombie.",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
     }
   ]
 }
