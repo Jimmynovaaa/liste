@@ -714,7 +714,7 @@
     },
     "description": "Shows an overview of your pawn's gear.",
     "name": "Viewer gear",
-    "usage": "!mypawngear",
+    "usage": "!mygear",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnGear"
@@ -1222,23 +1222,5 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitRaids"
-    },
-    "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinRaid"
   }
 ]
