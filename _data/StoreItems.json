@@ -1274,7 +1274,7 @@
 	},
 	{
 		"abr": "casquerenforcé",
-		"price": -10,
+		"price": 442,
 		"category": "Casques",
 		"defname": "Apparel_AdvancedHelmet"
 	},
@@ -2528,7 +2528,7 @@
 	},
 	{
 		"abr": "béret",
-		"price": -10,
+		"price": 141,
 		"category": "Coiffure",
 		"defname": "Apparel_Beret"
 	},
@@ -2642,7 +2642,7 @@
 	},
 	{
 		"abr": "casquedecataphracte",
-		"price": -10,
+		"price": 1242,
 		"category": "Casques",
 		"defname": "Apparel_ArmorHelmetCataphract"
 	},
@@ -2690,7 +2690,7 @@
 	},
 	{
 		"abr": "chapeaudedames",
-		"price": -10,
+		"price": 203,
 		"category": "Coiffure",
 		"defname": "Apparel_HatLadies"
 	},
@@ -2864,7 +2864,7 @@
 	},
 	{
 		"abr": "épéemono-moléculaire",
-		"price": -10,
+		"price": 3333,
 		"category": "Armes de mêlée",
 		"defname": "MeleeWeapon_MonoSword"
 	},
@@ -2876,7 +2876,7 @@
 	},
 	{
 		"abr": "épéeplasmique",
-		"price": -10,
+		"price": 3333,
 		"category": "Armes de mêlée",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
@@ -3830,7 +3830,7 @@
 	},
 	{
 		"abr": "araignée-cheval",
-		"price": 1417,
+		"price": -10,
 		"category": "Animaux",
 		"defname": "GR_Spiderhorse"
 	},
@@ -4013,12 +4013,6 @@
 		"price": -10,
 		"category": "Fruits crus",
 		"defname": "VCE_RawAvocado"
-	},
-	{
-		"abr": "avoine",
-		"price": -10,
-		"category": "Végétaux",
-		"defname": "VCE_RawOats"
 	},
 	{
 		"abr": "banane",
@@ -4310,7 +4304,7 @@
 	},
 	{
 		"abr": "cagoule",
-		"price": -10,
+		"price": 97,
 		"category": "Couvre-chefs",
 		"defname": "VAE_Headgear_Balaclava"
 	},
@@ -4328,25 +4322,25 @@
 	},
 	{
 		"abr": "caissepréfab.",
-		"price": 167,
+		"price": -10,
 		"category": "Structures préfabriquées",
 		"defname": "AP_Prefab_LowValue"
 	},
 	{
 		"abr": "caissepréfab.",
-		"price": 167,
+		"price": -10,
 		"category": "Structures préfabriquées",
 		"defname": "AP_Prefab"
 	},
 	{
 		"abr": "caissepréfab.",
-		"price": 167,
+		"price": -10,
 		"category": "Structures préfabriquées",
 		"defname": "AP_Prefab_MediumHighValue"
 	},
 	{
 		"abr": "caissepréfab.",
-		"price": 167,
+		"price": -10,
 		"category": "Structures préfabriquées",
 		"defname": "AP_Prefab_HighValue"
 	},
@@ -4898,7 +4892,7 @@
 	},
 	{
 		"abr": "couteaudecombat",
-		"price": -10,
+		"price": 205,
 		"category": "Armes de mêlée",
 		"defname": "VWE_MeleeWeapon_CombatKnife"
 	},
@@ -5269,12 +5263,6 @@
 		"defname": "VFEM_ElectronicsFabricationFactory_SteelExtractor"
 	},
 	{
-		"abr": "extracteurdelaitvégétal",
-		"price": -10,
-		"category": "Production",
-		"defname": "VCE_VegMilkExtractor"
-	},
-	{
 		"abr": "faisan",
 		"price": -10,
 		"category": "Animaux",
@@ -5294,7 +5282,7 @@
 	},
 	{
 		"abr": "fedora",
-		"price": -10,
+		"price": 94,
 		"category": "Couvre-chefs",
 		"defname": "VAE_Headgear_Fedora"
 	},
@@ -5509,12 +5497,6 @@
 		"defname": "VWE_Gun_BullpupRifle"
 	},
 	{
-		"abr": "fusild'assautgauss",
-		"price": 1392,
-		"category": "Armes à distance",
-		"defname": "VWE_Gun_GaussRifle"
-	},
-	{
 		"abr": "fusildechasseàlevier",
 		"price": -10,
 		"category": "Armes à distance",
@@ -5561,12 +5543,6 @@
 		"price": -10,
 		"category": "Armes à distance",
 		"defname": "VWE_Gun_MarksmanRifle"
-	},
-	{
-		"abr": "fusilgaussàrépétition",
-		"price": -10,
-		"category": "Armes à distance",
-		"defname": "VWEFT_Gun_GaussRepeater"
 	},
 	{
 		"abr": "fusilhypodermique",
@@ -6164,7 +6140,7 @@
 	},
 	{
 		"abr": "hachedeguerre",
-		"price": -10,
+		"price": 442,
 		"category": "Armes de mêlée",
 		"defname": "VWE_MeleeWeapon_BattleAxe"
 	},
@@ -6985,12 +6961,6 @@
 		"defname": "VWE_Gun_SwarmMissileLauncher"
 	},
 	{
-		"abr": "lanceurgauss",
-		"price": -10,
-		"category": "Armes à distance",
-		"defname": "VWE_Gun_GaussLance"
-	},
-	{
 		"abr": "lanceuriem",
 		"price": -10,
 		"category": "Armes à distance",
@@ -7232,13 +7202,13 @@
 	},
 	{
 		"abr": "lunettes",
-		"price": -10,
+		"price": 38,
 		"category": "Couvre-chefs",
 		"defname": "VAE_Headgear_Glasses"
 	},
 	{
 		"abr": "lunettesdesoleil",
-		"price": -10,
+		"price": 156,
 		"category": "Couvre-chefs",
 		"defname": "VAE_Headgear_Sunglasses"
 	},
@@ -7247,12 +7217,6 @@
 		"price": -10,
 		"category": "Animaux",
 		"defname": "AEXP_AfricanWildDog"
-	},
-	{
-		"abr": "magnumgauss",
-		"price": -10,
-		"category": "Armes à distance",
-		"defname": "VWE_Gun_GaussMagnum"
 	},
 	{
 		"abr": "manchotsauteur",
@@ -7340,7 +7304,7 @@
 	},
 	{
 		"abr": "matraqueélectrique",
-		"price": -10,
+		"price": 220,
 		"category": "Armes de mêlée",
 		"defname": "VWE_MeleeWeapon_StunBaton"
 	},
@@ -9043,12 +9007,6 @@
 		"defname": "VHGE_GasTank"
 	},
 	{
-		"abr": "revolvergauss",
-		"price": 908,
-		"category": "Armes à distance",
-		"defname": "VWEFT_Gun_GaussRevolver"
-	},
-	{
 		"abr": "revolverlourd",
 		"price": -10,
 		"category": "Armes à distance",
@@ -9170,7 +9128,7 @@
 	},
 	{
 		"abr": "barildechemshine",
-		"price": 95,
+		"price": -10,
 		"category": "Production",
 		"defname": "Building_ChemshineBarrel"
 	},
@@ -9194,13 +9152,13 @@
 	},
 	{
 		"abr": "bureaudegestionnaire",
-		"price": 508,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_ManagerStation"
 	},
 	{
 		"abr": "bureaudegestionnairebasique",
-		"price": 262,
+		"price": -10,
 		"category": "Production",
 		"defname": "FM_BasicManagerStation"
 	},
@@ -9530,181 +9488,181 @@
 	},
 	{
 		"abr": "sciedemaçonnerie",
-		"price": 3383,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFEM_MasonryAndMetallicsFactory_MasonrySaw"
 	},
 	{
 		"abr": "sculpture",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_FakeSculptureMediumA"
 	},
 	{
 		"abr": "sculpture",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_FakeSculptureMediumB"
 	},
 	{
 		"abr": "sculpture",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_FakeSculptureMediumC"
 	},
 	{
 		"abr": "sculpture",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_FakeSculptureMediumD"
 	},
 	{
 		"abr": "sculpture",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_FakeSculptureMediumE"
 	},
 	{
 		"abr": "sculpture",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_FakeSculptureMediumF"
 	},
 	{
 		"abr": "sculpture",
-		"price": 342,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_Carving"
 	},
 	{
 		"abr": "sculptureanimaliste",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_AnimalistFakeSculptureLargeA"
 	},
 	{
 		"abr": "sculptureanimaliste",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_AnimalistFakeSculptureLargeB"
 	},
 	{
 		"abr": "sculptureanimaliste",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_AnimalistFakeSculptureLargeC"
 	},
 	{
 		"abr": "sculpturearchotech",
-		"price": 5000,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_ArchotechSculpture"
 	},
 	{
 		"abr": "sculpturebouddhiste",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_BuddhistFakeSculptureLargeA"
 	},
 	{
 		"abr": "sculpturebouddhiste",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_BuddhistFakeSculptureLargeB"
 	},
 	{
 		"abr": "sculpturebouddhiste",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_BuddhistFakeSculptureLargeC"
 	},
 	{
 		"abr": "sculpturechrétienne",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_ChristianFakeSculptureLargeA"
 	},
 	{
 		"abr": "sculpturechrétienne",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_ChristianFakeSculptureLargeB"
 	},
 	{
 		"abr": "sculpturechrétienne",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_ChristianFakeSculptureLargeC"
 	},
 	{
 		"abr": "sculpturehindoue",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_HinduFakeSculptureLargeA"
 	},
 	{
 		"abr": "sculpturehindoue",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_HinduFakeSculptureLargeB"
 	},
 	{
 		"abr": "sculpturehindoue",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_HinduFakeSculptureLargeC"
 	},
 	{
 		"abr": "sculptureislamique",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_IslamicFakeSculptureLargeA"
 	},
 	{
 		"abr": "sculptureislamique",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_IslamicFakeSculptureLargeB"
 	},
 	{
 		"abr": "sculptureislamique",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_IslamicFakeSculptureLargeC"
 	},
 	{
 		"abr": "sculpturemorbide",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_MorbidFakeSculptureLargeA"
 	},
 	{
 		"abr": "sculpturemorbide",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_MorbidFakeSculptureLargeB"
 	},
 	{
 		"abr": "sculpturemorbide",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_MorbidFakeSculptureLargeC"
 	},
 	{
 		"abr": "sculpturetotémique",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_TotemicFakeSculptureLargeA"
 	},
 	{
 		"abr": "sculpturetotémique",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_TotemicFakeSculptureLargeB"
 	},
 	{
 		"abr": "sculpturetotémique",
-		"price": 183,
+		"price": -10,
 		"category": "Art",
 		"defname": "AP_TotemicFakeSculptureLargeC"
 	},
@@ -9776,7 +9734,7 @@
 	},
 	{
 		"abr": "socle",
-		"price": 442,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_Plinth"
 	},
@@ -9800,7 +9758,7 @@
 	},
 	{
 		"abr": "soupedegourmet(nonmijotée)",
-		"price": 742,
+		"price": -10,
 		"category": "Soupes (non mijotées)",
 		"defname": "VCE_UncookedSoupGourmet"
 	},
@@ -9812,7 +9770,7 @@
 	},
 	{
 		"abr": "soupegastronomique(nonmijotée)",
-		"price": 458,
+		"price": -10,
 		"category": "Soupes (non mijotées)",
 		"defname": "VCE_UncookedSoupLavish"
 	},
@@ -9824,7 +9782,7 @@
 	},
 	{
 		"abr": "souperaffinée(nonmijotée)",
-		"price": 227,
+		"price": -10,
 		"category": "Soupes (non mijotées)",
 		"defname": "VCE_UncookedSoupFine"
 	},
@@ -9836,7 +9794,7 @@
 	},
 	{
 		"abr": "soupesimple(nonmijotée)",
-		"price": 161,
+		"price": -10,
 		"category": "Soupes (non mijotées)",
 		"defname": "VCE_UncookedSoupSimple"
 	},
@@ -9848,79 +9806,79 @@
 	},
 	{
 		"abr": "stabilisateur",
-		"price": 53,
+		"price": -10,
 		"category": "Amplificateurs",
 		"defname": "GR_BoosterStabilizator"
 	},
 	{
 		"abr": "stationdepompagedeepchem",
-		"price": 750,
+		"price": -10,
 		"category": "Production",
 		"defname": "VCHE_DeepchemPumpjack"
 	},
 	{
 		"abr": "stationderechargeauto-convoyeur",
-		"price": 1850,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_AutostriderBase"
 	},
 	{
 		"abr": "stationderechargeauto-diffuseur",
-		"price": 1650,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_AutobroadcasterBase"
 	},
 	{
 		"abr": "stationderechargeauto-foreuse",
-		"price": 1400,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_AutominerBase"
 	},
 	{
 		"abr": "stationderechargeauto-médic",
-		"price": 1850,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_AutoMedicBase"
 	},
 	{
 		"abr": "stationderechargeauto-nettoyeur",
-		"price": 1650,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_AutocleanerBase"
 	},
 	{
 		"abr": "stationderechargeauto-transporteur",
-		"price": 1367,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_AutohaulerBase"
 	},
 	{
 		"abr": "stationderechargemécanoïdeanti-émeute",
-		"price": 2108,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_RiotBase"
 	},
 	{
 		"abr": "stationderechargemécanoïdedecombat",
-		"price": 2042,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_CombatBase"
 	},
 	{
 		"abr": "stationderechargemécanoïdepyro",
-		"price": 2467,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_PyroBase"
 	},
 	{
 		"abr": "stationderechargemécanoïderaider",
-		"price": 2925,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_RaiderBase"
 	},
 	{
 		"abr": "stationderechargetourellemobile",
-		"price": 2108,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Mechanoids_TurretBase"
 	},
@@ -9932,7 +9890,7 @@
 	},
 	{
 		"abr": "superordinateur",
-		"price": 2267,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFE_Supercomputer"
 	},
@@ -9950,7 +9908,7 @@
 	},
 	{
 		"abr": "surimihumain",
-		"price": 3,
+		"price": -10,
 		"category": "Poisson cru",
 		"defname": "VCE_HumanSurimi"
 	},
@@ -9968,7 +9926,7 @@
 	},
 	{
 		"abr": "suspension",
-		"price": 150,
+		"price": -10,
 		"category": "Pièces détachées",
 		"defname": "VVE_CarSuspension"
 	},
@@ -9980,13 +9938,13 @@
 	},
 	{
 		"abr": "synthétiseurdegénome",
-		"price": 967,
+		"price": -10,
 		"category": "Production",
 		"defname": "GR_GenePod"
 	},
 	{
 		"abr": "synthétiseurdesynthé",
-		"price": 11592,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer"
 	},
@@ -9998,7 +9956,7 @@
 	},
 	{
 		"abr": "tabled'améliorationgénétique",
-		"price": 1658,
+		"price": -10,
 		"category": "Production",
 		"defname": "GR_GeneticsTinkeringTable"
 	},
@@ -10040,19 +9998,19 @@
 	},
 	{
 		"abr": "tabledesushi",
-		"price": 165,
+		"price": -10,
 		"category": "Production",
 		"defname": "VCE_SushiPrepTable"
 	},
 	{
 		"abr": "tabledescondiments",
-		"price": 259,
+		"price": -10,
 		"category": "Production",
 		"defname": "VCE_CondimentPrepTable"
 	},
 	{
 		"abr": "tabled'extractiondegénome",
-		"price": 483,
+		"price": -10,
 		"category": "Production",
 		"defname": "GR_GeneticExtractionTable"
 	},
@@ -10190,7 +10148,7 @@
 	},
 	{
 		"abr": "thon",
-		"price": 4,
+		"price": -10,
 		"category": "Poisson cru",
 		"defname": "VCEF_RawTuna"
 	},
@@ -10274,7 +10232,7 @@
 	},
 	{
 		"abr": "tissageauto",
-		"price": 3458,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFEM_WearablesAndTextileFactory_AutoLoom"
 	},
@@ -10382,13 +10340,13 @@
 	},
 	{
 		"abr": "transmission",
-		"price": 283,
+		"price": -10,
 		"category": "Pièces détachées",
 		"defname": "VVE_CarTransmission"
 	},
 	{
 		"abr": "trémied'usine",
-		"price": 138,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFEM_HeavyHopper"
 	},
@@ -10400,7 +10358,7 @@
 	},
 	{
 		"abr": "truite",
-		"price": 2,
+		"price": -10,
 		"category": "Poisson cru",
 		"defname": "VCEF_RawTrout"
 	},
@@ -10454,193 +10412,193 @@
 	},
 	{
 		"abr": "viandeaberrante",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_GR_AberrantFleshbeast"
 	},
 	{
 		"abr": "viandecroustillante",
-		"price": 7,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "GR_TastyMeat"
 	},
 	{
 		"abr": "vianded'alligator",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Alligator"
 	},
 	{
 		"abr": "viandedeblaireau",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Badger"
 	},
 	{
 		"abr": "viandedebœufmusqué",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Muskox"
 	},
 	{
 		"abr": "viandedebonobo",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Bonobo"
 	},
 	{
 		"abr": "viandedechien",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Beagle"
 	},
 	{
 		"abr": "viandedecrocodile",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Crocodile"
 	},
 	{
 		"abr": "viandedediabledetasmanie",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_TasmanianDevil"
 	},
 	{
 		"abr": "viandedeélan",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Moose"
 	},
 	{
 		"abr": "viandedegirafe",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Giraffe"
 	},
 	{
 		"abr": "viandedeguépard",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Cheetah"
 	},
 	{
 		"abr": "viandedejaguar",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Jaguar"
 	},
 	{
 		"abr": "viandedekangourou",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Kangaroo"
 	},
 	{
 		"abr": "viandedekoala",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Koala"
 	},
 	{
 		"abr": "viandedelion",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Lion"
 	},
 	{
 		"abr": "viandedeloutre",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Otter"
 	},
 	{
 		"abr": "viandedemégacarcajou",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_MegaWolverine"
 	},
 	{
 		"abr": "viandedepandaroux",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_RedPanda"
 	},
 	{
 		"abr": "viandedepangolingéant",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Pangolin"
 	},
 	{
 		"abr": "viandedepinnipède",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Seal"
 	},
 	{
 		"abr": "viandedeporc-épic",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Porcupine"
 	},
 	{
 		"abr": "viandedeprimate",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Gorilla"
 	},
 	{
 		"abr": "viandedeprimate",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_VAERoy_Orangutan"
 	},
 	{
 		"abr": "viandedeputoisàpiedsnoirs",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_BlackFootedFerret"
 	},
 	{
 		"abr": "viandedethylacine",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Thylacine"
 	},
 	{
 		"abr": "viandedetigre",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Tiger"
 	},
 	{
 		"abr": "viandedewyrm",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_VAECaves_Wyrm"
 	},
 	{
 		"abr": "vianded'hérisson",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Hedgehog"
 	},
 	{
 		"abr": "vianded'hippopotame",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Hippopotamus"
 	},
 	{
 		"abr": "vianded'hyène",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Hyena"
 	},
 	{
 		"abr": "vianded'ornithorynque",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "Meat_AEXP_Platypus"
 	},
@@ -10658,43 +10616,85 @@
 	},
 	{
 		"abr": "viandepréparée",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "VFEM_ProcessedMeat"
 	},
 	{
 		"abr": "viandetoxique",
-		"price": 3,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "VAEWaste_ToxicMeat"
 	},
 	{
 		"abr": "vidangedechemfuel",
-		"price": 194,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "VCHE_ChemfuelDrain"
 	},
 	{
 		"abr": "vidangededeepchem",
-		"price": 194,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "VCHE_DeepchemDrain"
 	},
 	{
+		"abr": "avoine",
+		"price": 2,
+		"category": "Végétaux",
+		"defname": "VCE_RawOats"
+	},
+	{
+		"abr": "extracteurdelaitvégétal",
+		"price": 296,
+		"category": "Production",
+		"defname": "VCE_VegMilkExtractor"
+	},
+	{
+		"abr": "fusild'assautgauss",
+		"price": 1392,
+		"category": "Armes à distance",
+		"defname": "VWE_Gun_GaussRifle"
+	},
+	{
+		"abr": "fusilgaussàrépétition",
+		"price": 1500,
+		"category": "Armes à distance",
+		"defname": "VWEFT_Gun_GaussRepeater"
+	},
+	{
+		"abr": "lanceurgauss",
+		"price": 3508,
+		"category": "Armes à distance",
+		"defname": "VWE_Gun_GaussLance"
+	},
+	{
+		"abr": "magnumgauss",
+		"price": 817,
+		"category": "Armes à distance",
+		"defname": "VWE_Gun_GaussMagnum"
+	},
+	{
+		"abr": "revolvergauss",
+		"price": 908,
+		"category": "Armes à distance",
+		"defname": "VWEFT_Gun_GaussRevolver"
+	},
+	{
 		"abr": "volailleroyale",
-		"price": 7,
+		"price": -10,
 		"category": "Viandes crues",
 		"defname": "VAERoy_QuailMeat"
 	},
 	{
 		"abr": "walllight",
-		"price": 16,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "Lighting_MURWallLight"
 	},
 	{
 		"abr": "wallsunlight",
-		"price": 16,
+		"price": -10,
 		"category": "Meubles",
 		"defname": "Lighting_MURWallSunLight"
 	},
@@ -10721,7 +10721,7 @@
 		"price": 1000,
 		"category": "Animaux",
 		"defname": "AEXP_Zebra"
-	}
+	},
 	],
 	"total": 1787
 }
