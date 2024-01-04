@@ -6,18 +6,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Joedox",
-    "name": "Allow Tool [Fr]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Joedox",
     "name": "Alpha Prefabs [Fr]",
     "steamId": null,
@@ -114,8 +102,8 @@
     "version": null
   },
   {
-    "author": "Joedox",
-    "name": "Quarry [Fr]",
+    "author": "OskarPotocki, Atlas et Kikohi",
+    "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
@@ -265,12 +253,6 @@
   },
   {
     "author": "OskarPotocki, Atlas et Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas et Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
@@ -374,6 +356,36 @@
   {
     "author": "Joedox",
     "name": "Vanilla Mega Pack [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Vanilla Races Expanded - Lycanthrope (Son)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Allow Tool [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Quarry [Fr]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joedox",
+    "name": "Work Tab [Fr]",
     "steamId": null,
     "version": null
   }

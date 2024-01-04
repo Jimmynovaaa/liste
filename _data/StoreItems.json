@@ -5150,7 +5150,7 @@
 	},
 	{
 		"abr": "épéelaser",
-		"price": -10,
+		"price": 3333,
 		"category": "Armes de mêlée",
 		"defname": "VWEL_LaserSword"
 	},
@@ -8840,7 +8840,7 @@
 	},
 	{
 		"abr": "prestigieusearmuredesoldat",
-		"price": -10,
+		"price": 2425,
 		"category": "Armures",
 		"defname": "VAE_Apparel_RoyalTrooperArmor"
 	},
@@ -8852,7 +8852,7 @@
 	},
 	{
 		"abr": "prestigieuxcasquedesoldat",
-		"price": -10,
+		"price": 992,
 		"category": "Casques",
 		"defname": "VAE_Headgear_RoyalTrooperHelmet"
 	},
@@ -10322,7 +10322,7 @@
 	},
 	{
 		"abr": "toxiours",
-		"price": 1167,
+		"price": -10,
 		"category": "Animaux",
 		"defname": "VAEWaste_Toxbear"
 	},
