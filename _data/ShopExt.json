@@ -1776,6 +1776,204 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
+      "description": "Timmy was born for a life on the frontier. son ability to be up and about quickly is increased, il's less likely to be bothered by harsh weather, better at getting every last scrap from a fresh kill, and less likely to break down in a tough situation. However, Timmy longs for the wilderness and will randomly leave to seek it out.",
+      "stats": [
+        "+2 tir",
+        "+1 mêlée",
+        "+1 cuisine",
+        "+0.10 vitesse de déplacement",
+        "+5% vitesse d'ingestion",
+        "+5% efficacité du dépeçage",
+        "+5% vitesse du dépeçage",
+        "-5.00% risque d'intoxication alimentaire",
+        "-5% seuil de crise de nerfs",
+        "-10.0C Température minimale de confort",
+        "+10.0C Température maximale de confort"
+      ],
+      "conflicts": [
+        "douillet"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "douillet"
+        ],
+        "stats": [
+          "+2 tir",
+          "+1 mêlée",
+          "+1 cuisine",
+          "+0.10 vitesse de déplacement",
+          "+5% vitesse d'ingestion",
+          "+5% efficacité du dépeçage",
+          "+5% vitesse du dépeçage",
+          "-5.00% risque d'intoxication alimentaire",
+          "-5% seuil de crise de nerfs",
+          "-10.0C Température minimale de confort",
+          "+10.0C Température maximale de confort"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Frontiersman_Westerado",
+      "name": "frontiersman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is a descendant of the legendary 'Harlow', which greatly predisposes lui to firearms.",
+      "stats": [
+        "+0.5 précision de tir",
+        "-50% temps de visée"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.5 précision de tir",
+          "-50% temps de visée"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DeadEyeTraits_Westerado",
+      "name": "bloodofharlow"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy has a dead eye. This, apparently, increases firearm skills.",
+      "stats": [
+        "+0.2 précision de tir",
+        "-35% temps de visée"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.2 précision de tir",
+          "-35% temps de visée"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DeadEyeTraits_Westerado",
+      "name": "deadeye"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy was born with a pretty face, and a fast gun-hand.",
+      "stats": [
+        "+0.3 précision de tir",
+        "-15% temps de visée",
+        "+10.00% impact des discussions"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.3 précision de tir",
+          "-15% temps de visée",
+          "+10.00% impact des discussions"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DollarTrilogyTraits_Westerado",
+      "name": "good"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is just a generally bad person. This subtly repels others during social interactions.",
+      "stats": [
+        "+0.2 probabilité de toucher en mêlée",
+        "-10.00% impact des discussions"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.2 probabilité de toucher en mêlée",
+          "-10.00% impact des discussions"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DollarTrilogyTraits_Westerado",
+      "name": "bad"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is ugly. More so in character than looks, but also looks. Lazy, quick to anger, deceptive, and gluttonous are all descriptions that would befit lui.",
+      "stats": [
+        "-25% temps de visée",
+        "-20% multiplicateur de taux de repos",
+        "-15% vitesse d'ingestion",
+        "-10% seuil de crise de nerfs",
+        "-10.00% impact des discussions"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-25% temps de visée",
+          "-20% multiplicateur de taux de repos",
+          "-15% vitesse d'ingestion",
+          "-10% seuil de crise de nerfs",
+          "-10.00% impact des discussions"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Westerado (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "DollarTrilogyTraits_Westerado",
+      "name": "ugly"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
       "description": "Timmy profite de la solitude et de la tranquillité inhérentes aux longues sessions de pêche. il préférera la pêche aux autres activités.",
       "stats": [],
       "conflicts": [],
@@ -1791,6 +1989,138 @@
       },
       "defName": "VCEF_Fisherman",
       "name": "pêcheur"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Le corps ou l'esprit de Timmy est remplit de perspicacité et d'expérience. Alors que certains les trouvent démodés, d'autres respecteront leurs conseils.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "aîné"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy est obsédé par les germes et se lavera beaucoup plus souvent que la normale.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene Lite",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy est très hygiénique et se lavera plus fréquemment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene Lite",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "propre"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy est peu hygiénique et se lavera moins fréquemment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene Lite",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "nonhygiénique"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy a des normes de propreté très faibles et ne se lavera que lorsqu'il le faudra absolument.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene Lite",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "sale"
     },
     {
       "canAdd": true,
@@ -2029,28 +2359,6 @@
       },
       "defName": "VTE_ColdInclined",
       "name": "enclinaufroid"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Une bombe pourrait exploser à côté de Timmy pendant son sommeil qu'il continuerait à dormir. il ne se soucie pas non plus de défendre la colonie pendant sa sieste.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Traits Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VTE_HeavySleeper",
-      "name": "sommeilprofond"
     },
     {
       "canAdd": true,
@@ -3297,6 +3605,198 @@
       },
       "defName": "VTE_Schizoid",
       "name": "schizoïdie"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy est attiré de façon romantique par des personnes du sexe opposé.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Straight",
+      "name": "hétérosexuel"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HeteroAce",
+      "name": "asexual(hetero)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of son own gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HomoAce",
+      "name": "asexual(homo)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BiAce",
+      "name": "asexual(bi)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy ne trompera jamais un partenaire, quelle que soit les problèmes dans la relation.",
+      "stats": [],
+      "conflicts": [
+        "coureurdejupons"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "coureurdejupons"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faithful",
+      "name": "fidèle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy ne peut tout simplement pas rester fidèle à un partenaire.",
+      "stats": [],
+      "conflicts": [
+        "fidèle"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fidèle"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Philanderer",
+      "name": "coureurdejupons"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes lui stand out among others of son kind.",
+      "stats": [
+        "+3.0 beauté"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 beauté"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at lui is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 beauté"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 beauté"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
     }
   ],
   "races": [
