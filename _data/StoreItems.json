@@ -70,25 +70,25 @@
       "abr": "œilarchotech",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "brasarchotech",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "jambearchotech",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "œilbionique",
       "category": "Bioniques",
       "defname": "BionicEye",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "brasbionique",
@@ -820,13 +820,13 @@
       "abr": "médicament",
       "category": "Médicaments",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "médicamentavancé",
       "category": "Médicaments",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "composant",
@@ -898,7 +898,7 @@
       "abr": "foin",
       "category": "Aliments",
       "defname": "Hay",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "houblon",
@@ -1354,19 +1354,19 @@
       "abr": "revolver",
       "category": "Armes à distance",
       "defname": "Gun_Revolver",
-      "price": -10
+      "price": 226
     },
     {
       "abr": "pistoletautomatique",
       "category": "Armes à distance",
       "defname": "Gun_Autopistol",
-      "price": -10
+      "price": 232
     },
     {
       "abr": "pistolet-mitrailleur",
       "category": "Armes à distance",
       "defname": "Gun_MachinePistol",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "lance-flammes",
@@ -1378,49 +1378,49 @@
       "abr": "carabinedesurvie",
       "category": "Armes à distance",
       "defname": "Gun_BoltActionRifle",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "fusilàpompe",
       "category": "Armes à distance",
       "defname": "Gun_PumpShotgun",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "fusilàpompeautomatique",
       "category": "Armes à distance",
       "defname": "Gun_ChainShotgun",
-      "price": -10
+      "price": 675
     },
     {
       "abr": "pistolet-mitrailleurlourd",
       "category": "Armes à distance",
       "defname": "Gun_HeavySMG",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "mitrailleuse",
       "category": "Armes à distance",
       "defname": "Gun_LMG",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "fusild'assaut",
       "category": "Armes à distance",
       "defname": "Gun_AssaultRifle",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "fusildeprécision",
       "category": "Armes à distance",
       "defname": "Gun_SniperRifle",
-      "price": -10
+      "price": 883
     },
     {
       "abr": "minigun",
       "category": "Armes à distance",
       "defname": "Gun_Minigun",
-      "price": -10
+      "price": 1933
     },
     {
       "abr": "lance-roquettestriple",
@@ -1480,7 +1480,7 @@
       "abr": "fusilàimpulsion",
       "category": "Armes à distance",
       "defname": "Gun_ChargeRifle",
-      "price": -10
+      "price": 1683
     },
     {
       "abr": "systèmedebarrageorbital",
@@ -1636,7 +1636,7 @@
       "abr": "bison",
       "category": "Animaux",
       "defname": "Bison",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "dromadaire",
@@ -1672,7 +1672,7 @@
       "abr": "cheval",
       "category": "Animaux",
       "defname": "Horse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "âne",
@@ -2446,25 +2446,25 @@
       "abr": "épéemono-moléculaire",
       "category": "Armes de mêlée",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "épéemono-moléculaireconsciente",
       "category": "Armes intelligentes",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "épéeplasmique",
       "category": "Armes de mêlée",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "épéeplasmiqueconsciente",
       "category": "Armes intelligentes",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "estomacamélioré",
@@ -2806,13 +2806,13 @@
       "abr": "pantalond'enfant",
       "category": "Divers",
       "defname": "Apparel_KidPants",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "parkad'enfant",
       "category": "Divers",
       "defname": "Apparel_KidParka",
-      "price": -10
+      "price": 172
     },
     {
       "abr": "pendentif",
@@ -3184,7 +3184,7 @@
       "abr": "t-shirtd'enfant",
       "category": "Divers",
       "defname": "Apparel_KidShirt",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "turban",
@@ -3616,25 +3616,25 @@
       "abr": "fusilàblocroulant",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_RollingBlockRifle",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "fusilàpompeàdoublecanon",
       "category": "Armes à distance",
       "defname": "VFES_Gun_DoubleBarreledShotgun",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "fusildechasse",
       "category": "Armes à distance",
       "defname": "VFES_Gun_HuntingRifle",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "fusildechasseàrépétition",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_RepeatingShotgun",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "garde-robe",
@@ -4276,7 +4276,7 @@
       "abr": "animalclothes",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalClothes",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "animaldatabase",
@@ -4300,19 +4300,19 @@
       "abr": "animalflakarmor",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalFlakArmor",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "animalflakhelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalAdvancedHelmet",
-      "price": -10
+      "price": 260
     },
     {
       "abr": "animalheadwear",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalScarf",
-      "price": -10
+      "price": 91
     },
     {
       "abr": "animalhospitalbed",
@@ -4324,25 +4324,25 @@
       "abr": "animalplatearmor",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalPlateArmor",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "animalplatehelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalPlateHelmet",
-      "price": -10
+      "price": 135
     },
     {
       "abr": "animalpowerarmor",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalPowerArmor",
-      "price": -10
+      "price": 3392
     },
     {
       "abr": "animalpowerhelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_SmallAnimalPowerArmorHelmet",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "animalprostheticstable",
@@ -4384,13 +4384,13 @@
       "abr": "aquarium",
       "category": "Détente",
       "defname": "AtwoodAquarium",
-      "price": 156
+      "price": -10
     },
     {
       "abr": "ar-10",
       "category": "Armes à distance",
       "defname": "RNGun_AR10_Rifle",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "arachide",
@@ -4414,13 +4414,13 @@
       "abr": "arbalètecryo",
       "category": "Armes cryo",
       "defname": "VFEV_CryptoLightCrossbow",
-      "price": -10
+      "price": 1433
     },
     {
       "abr": "arbalètelourdecryo",
       "category": "Armes cryo",
       "defname": "VFEV_CryptoHeavyCrossbow",
-      "price": -10
+      "price": 2367
     },
     {
       "abr": "arcàpoulies",
@@ -4516,7 +4516,7 @@
       "abr": "armedepoingdecombat",
       "category": "Armes à distance",
       "defname": "VWE_CombatHandgun",
-      "price": -10
+      "price": 291
     },
     {
       "abr": "armoireàcouture",
@@ -4870,7 +4870,7 @@
       "abr": "basicaquarium",
       "category": "Détente",
       "defname": "AtwoodAquariumBasic",
-      "price": 123
+      "price": -10
     },
     {
       "abr": "basicworkbench",
@@ -4900,7 +4900,7 @@
       "abr": "bayonetedspringfieldmodel1822",
       "category": "Armes à distance",
       "defname": "Gun_M1822MusketBayoneted",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "beagle",
@@ -5248,7 +5248,7 @@
       "abr": "blackbear",
       "category": "Animaux",
       "defname": "Bear_BlackBear_Westerado",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "blackbeeswax",
@@ -5350,7 +5350,7 @@
       "abr": "bœufmusqué",
       "category": "Animaux",
       "defname": "AEXP_Muskox",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "boissonénergisante",
@@ -5506,7 +5506,7 @@
       "abr": "browninghi-power",
       "category": "Armes à distance",
       "defname": "RNGun_BrowningHiPower_Pistol",
-      "price": -10
+      "price": 232
     },
     {
       "abr": "bucket",
@@ -5740,7 +5740,7 @@
       "abr": "canonàmain",
       "category": "Armes à distance",
       "defname": "VWE_Gun_HandCannon",
-      "price": -10
+      "price": 232
     },
     {
       "abr": "canonobusierde121853",
@@ -6016,13 +6016,13 @@
       "abr": "chargecarbine",
       "category": "Armes à distance",
       "defname": "RNGun_MrShorty_ChargeRifle",
-      "price": -10
+      "price": 1083
     },
     {
       "abr": "charlesparker1878",
       "category": "Armes à distance",
       "defname": "Gun_CoachGun_Westerado",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "chatabyssin",
@@ -6388,7 +6388,7 @@
       "abr": "coachgun",
       "category": "Armes à distance",
       "defname": "Gun_Coach",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "coat",
@@ -6418,25 +6418,25 @@
       "abr": "cocktailgastronomique",
       "category": "Plats",
       "defname": "VBE_GourmetCocktail",
-      "price": -10
+      "price": 125
     },
     {
       "abr": "cocktailraffiné",
       "category": "Plats",
       "defname": "VBE_FineCocktail",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "cocktailsimple",
       "category": "Plats",
       "defname": "VBE_SimpleCocktail",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "cocktailsomptueux",
       "category": "Plats",
       "defname": "VBE_LavishCocktail",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "coelacanths",
@@ -6472,25 +6472,25 @@
       "abr": "colt1851navy",
       "category": "Armes à distance",
       "defname": "Gun_PercussionRevolver_Westerado",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "coltarmymodel1860",
       "category": "Armes à distance",
       "defname": "Gun_HarlowRevolver_Westerado",
-      "price": -10
+      "price": 6333
     },
     {
       "abr": "coltbuntline",
       "category": "Armes à distance",
       "defname": "Gun_ColtBuntline",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "coltfrontiersix-shooter",
       "category": "Armes à distance",
       "defname": "Gun_ColtFrontier",
-      "price": -10
+      "price": 262
     },
     {
       "abr": "coltm1839ringlever",
@@ -6574,43 +6574,43 @@
       "abr": "coltm1873",
       "category": "Armes à distance",
       "defname": "Gun_Cattleman_Westerado",
-      "price": -10
+      "price": 234
     },
     {
       "abr": "coltm1878revolver",
       "category": "Armes à distance",
       "defname": "Gun_M1878Colt",
-      "price": -10
+      "price": 272
     },
     {
       "abr": "coltopentop",
       "category": "Armes à distance",
       "defname": "Gun_ColtOpenTop",
-      "price": -10
+      "price": 262
     },
     {
       "abr": "coltpeacemaker",
       "category": "Armes à distance",
       "defname": "RNGun_Revolver_ColtPeacemaker",
-      "price": -10
+      "price": 226
     },
     {
       "abr": "coltrevolvingrifle",
       "category": "Armes à distance",
       "defname": "Gun_Colt_OneEightFiveFive_Revolving_Rifle",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "coltsingleactionarmy",
       "category": "Armes à distance",
       "defname": "Gun_ColtPeacemaker",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "coltwalker",
       "category": "Armes à distance",
       "defname": "RNGun_Revolver_ColtWalker",
-      "price": -10
+      "price": 226
     },
     {
       "abr": "combatknife(vintagekabar)",
@@ -6808,7 +6808,7 @@
       "abr": "couteauxdelancer",
       "category": "Armes à distance",
       "defname": "VWE_Throwing_Knives",
-      "price": -10
+      "price": 161
     },
     {
       "abr": "coyote",
@@ -6898,7 +6898,7 @@
       "abr": "crossbow",
       "category": "Armes à distance",
       "defname": "Outland_Crossbow",
-      "price": -10
+      "price": 133
     },
     {
       "abr": "crossbuck",
@@ -7096,13 +7096,13 @@
       "abr": "decoratedhenryrepeatingrifle",
       "category": "Armes à distance",
       "defname": "Gun_RepeatingRifleDecorated_Westerado",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "decoratedspringfieldmodel1861",
       "category": "Armes à distance",
       "defname": "Gun_MusketRifleDecorated_Westerado",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "deepchem",
@@ -7582,7 +7582,7 @@
       "abr": "enfieldpattern1853",
       "category": "Armes à distance",
       "defname": "Gun_PercussionRifle_Westerado",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "enseigneled",
@@ -7618,7 +7618,7 @@
       "abr": "épéelaser",
       "category": "Armes de mêlée",
       "defname": "VWEL_LaserSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "épices",
@@ -7666,43 +7666,43 @@
       "abr": "expérimentalfusilàpompelaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_SalvagedLaserShotgun",
-      "price": -10
+      "price": 3417
     },
     {
       "abr": "expérimentalfusildechasselaser",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_SalvagedLaserHuntingRifle",
-      "price": -10
+      "price": 3833
     },
     {
       "abr": "expérimentalfusildeprécisionlaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_SalvagedLaserSniperRifle",
-      "price": -10
+      "price": 3667
     },
     {
       "abr": "expérimentalfusillaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_SalvagedLaserRifle",
-      "price": -10
+      "price": 3250
     },
     {
       "abr": "expérimentalfusillaseràrépétition",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_SalvagedLaserRepeater",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "expérimentalpistoletlaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_SalvagedLaserPistol",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "expérimentalrevolverlaser",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_SalvagedLaserRevolver",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "expressoromano",
@@ -8200,103 +8200,103 @@
       "abr": "fusilàcanonscié",
       "category": "Armes à distance",
       "defname": "VWE_SawedOffShotgun",
-      "price": -10
+      "price": 297
     },
     {
       "abr": "fusilàpompeàimpulsion",
       "category": "Armes à distance",
       "defname": "VWE_Gun_ChargeShotgun",
-      "price": -10
+      "price": 1683
     },
     {
       "abr": "fusilàpompelaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_LaserShotgun",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "fusilàverrou",
       "category": "Armes à distance",
       "defname": "VWE_Gun_LeverActionRifle",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "fusilanti-matériel",
       "category": "Armes à distance",
       "defname": "VWE_Gun_AntiMaterialRifle",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "fusilbullpup",
       "category": "Armes à distance",
       "defname": "VWE_Gun_Carbine",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "fusilcryo",
       "category": "Armes cryo",
       "defname": "VFEV_CryptoRifle",
-      "price": -10
+      "price": 2100
     },
     {
       "abr": "fusild'assautgauss",
       "category": "Armes à distance",
       "defname": "VWE_Gun_GaussRifle",
-      "price": -10
+      "price": 1392
     },
     {
       "abr": "fusildecombat",
       "category": "Armes à distance",
       "defname": "VWE_Gun_BattleRifle",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "fusildeprécisionàimpulsion",
       "category": "Armes à distance",
       "defname": "VWE_Gun_ChargeSniperRifle",
-      "price": -10
+      "price": 2050
     },
     {
       "abr": "fusildeprécisionlaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_LaserSniperRifle",
-      "price": -10
+      "price": 6000
     },
     {
       "abr": "fusildeservice",
       "category": "Armes à distance",
       "defname": "VWE_Gun_ServiceRifle",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "fusildetireurd'élite",
       "category": "Armes à distance",
       "defname": "VWE_Gun_MarksmanRifle",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "fusilgaussàrépétition",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_GaussRepeater",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "fusilhypodermique",
       "category": "Armes à distance",
       "defname": "VWE_Gun_DartGun",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "fusillaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_LaserRifle",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "fusilsemi-automatique",
       "category": "Armes à distance",
       "defname": "VWE_Gun_SemiAutomaticRifle",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "fûtàwhisky",
@@ -8362,7 +8362,7 @@
       "abr": "gasserm1870",
       "category": "Armes à distance",
       "defname": "Gun_DoubleActionRevolver_Westerado",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "gatlinggunm1862",
@@ -8776,7 +8776,7 @@
       "abr": "griswold&gunnisonpattern1851",
       "category": "Armes à distance",
       "defname": "Gun_NavyRevolver_Westerado",
-      "price": -10
+      "price": 236
     },
     {
       "abr": "grue",
@@ -8830,13 +8830,13 @@
       "abr": "hachedelancer",
       "category": "Armes à distance",
       "defname": "VFE_ThrowingAxe",
-      "price": -10
+      "price": 260
     },
     {
       "abr": "hachelourdecryo",
       "category": "Armes cryo",
       "defname": "VFEV_CryptoHeavyAxe",
-      "price": -10
+      "price": 2417
     },
     {
       "abr": "hachette",
@@ -8848,7 +8848,7 @@
       "abr": "hachettecryo",
       "category": "Armes cryo",
       "defname": "VFEV_CryptoLightAxe",
-      "price": -10
+      "price": 2133
     },
     {
       "abr": "hallebarde",
@@ -8908,7 +8908,7 @@
       "abr": "harpon",
       "category": "Armes à distance",
       "defname": "VFE_Harpoon",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "healthyfriedmeat",
@@ -8956,7 +8956,7 @@
       "abr": "henryastonmodel1842",
       "category": "Armes à distance",
       "defname": "Gun_PercussionPistol_Westerado",
-      "price": -10
+      "price": 329
     },
     {
       "abr": "henrym1860",
@@ -8974,19 +8974,19 @@
       "abr": "henryrepeatingrifle",
       "category": "Armes à distance",
       "defname": "RNGun_HenryRepeatingRifle_Rifle",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "henryrepeatingrifle",
       "category": "Armes à distance",
       "defname": "Gun_RepeatingRifle_Westerado",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "henryrifle",
       "category": "Armes à distance",
       "defname": "Gun_Henry_Rifle",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "hérisson",
@@ -9040,13 +9040,13 @@
       "abr": "hmg",
       "category": "Armes à distance",
       "defname": "VWE_Gun_HMG",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "holland&hollandparadox",
       "category": "Armes à distance",
       "defname": "Gun_BreakActionShotgun_Westerado",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "holsterbeltwithchaps",
@@ -9112,7 +9112,7 @@
       "abr": "hussarjacket",
       "category": "Divers",
       "defname": "SteamworldUniforms_HussarJacket",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "hussarjacket",
@@ -9448,7 +9448,7 @@
       "abr": "kbarailgun",
       "category": "Armes à distance",
       "defname": "RNGun_KBARailgun_BoltAction",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "kemeticslab(broad)",
@@ -9592,13 +9592,13 @@
       "abr": "lametoxique",
       "category": "Armes de mêlée",
       "defname": "VFEE_MeleeWeapon_Toxblade",
-      "price": -10
+      "price": 3000
     },
     {
       "abr": "lametoxiqueconsciente",
       "category": "Armes intelligentes",
       "defname": "VFEE_MeleeWeapon_ToxbladeBladelink",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "lampadaire",
@@ -9700,49 +9700,49 @@
       "abr": "largeanimalclothes",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalClothes",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "largeanimalflakarmor",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalFlakArmor",
-      "price": -10
+      "price": 1108
     },
     {
       "abr": "largeanimalflakhelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalAdvancedHelmet",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "largeanimalheadwear",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalScarf",
-      "price": -10
+      "price": 181
     },
     {
       "abr": "largeanimalplatearmor",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalPlateArmor",
-      "price": -10
+      "price": 1075
     },
     {
       "abr": "largeanimalplatehelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalPlateHelmet",
-      "price": -10
+      "price": 269
     },
     {
       "abr": "largeanimalpowerarmor",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalPowerArmor",
-      "price": -10
+      "price": 5783
     },
     {
       "abr": "largeanimalpowerhelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_LargeAnimalPowerArmorHelmet",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "largeboxedpallet",
@@ -10126,13 +10126,13 @@
       "abr": "m1carbine",
       "category": "Armes à distance",
       "defname": "RNGun_BattleRifle_M1Carbine",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "m1garand",
       "category": "Armes à distance",
       "defname": "RNGun_BattleRifle_M1Garand",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "m1819hallrifle",
@@ -10210,7 +10210,7 @@
       "abr": "magnumgauss",
       "category": "Armes à distance",
       "defname": "VWE_Gun_GaussMagnum",
-      "price": -10
+      "price": 817
     },
     {
       "abr": "maiddress",
@@ -10312,13 +10312,13 @@
       "abr": "mare'sleg",
       "category": "Armes à distance",
       "defname": "Gun_MaresLegShotgun_Westerado",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "marlinmodel1894",
       "category": "Armes à distance",
       "defname": "Gun_Marlin_M_OneEightNineFourC_Rifle",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "marmiteélectrique",
@@ -10336,7 +10336,7 @@
       "abr": "martini–henry",
       "category": "Armes à distance",
       "defname": "Gun_BreechblockRifle_Westerado",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "masalachaï",
@@ -10366,7 +10366,7 @@
       "abr": "mauserc96",
       "category": "Armes à distance",
       "defname": "Gun_BroomhandlePistol_Westerado",
-      "price": -10
+      "price": 242
     },
     {
       "abr": "maynardm1851carbine",
@@ -10696,13 +10696,13 @@
       "abr": "minigunàimpulsion",
       "category": "Armes à distance",
       "defname": "VWE_Gun_ChargeMinigun",
-      "price": -10
+      "price": 5458
     },
     {
       "abr": "minigunlaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_LaserMinigun",
-      "price": -10
+      "price": 7500
     },
     {
       "abr": "miningbookshelf",
@@ -10738,7 +10738,7 @@
       "abr": "mitrailleuseàimpulsion",
       "category": "Armes à distance",
       "defname": "VWE_Gun_ChargeLMG",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "mixedberrymilkshake",
@@ -10798,7 +10798,7 @@
       "abr": "model70",
       "category": "Armes à distance",
       "defname": "RNGun_WinchesterModel70_Sniper",
-      "price": -10
+      "price": 883
     },
     {
       "abr": "modernstove",
@@ -10852,13 +10852,13 @@
       "abr": "mosin-nagantobrez",
       "category": "Armes à distance",
       "defname": "Gun_BoltActionPistol_Westerado",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "mousquet",
       "category": "Armes à distance",
       "defname": "VWE_Gun_Musket",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "moussedecaverne",
@@ -10978,7 +10978,7 @@
       "abr": "netgun",
       "category": "Armes à distance",
       "defname": "Gun_Net",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "net-turret",
@@ -11752,7 +11752,7 @@
       "abr": "percuteurdecharge",
       "category": "Armes à distance",
       "defname": "VFEE_Gun_ChargeThumper",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "peregrinefalcon",
@@ -11842,7 +11842,7 @@
       "abr": "pgmhécateii",
       "category": "Armes à distance",
       "defname": "RNGun_PGMHelcateII_AMR",
-      "price": -10
+      "price": 1050
     },
     {
       "abr": "philadelphiaderringer",
@@ -11854,7 +11854,7 @@
       "abr": "phonograph",
       "category": "Art",
       "defname": "VD_Phonograph",
-      "price": -10
+      "price": 119
     },
     {
       "abr": "phoque",
@@ -11968,55 +11968,55 @@
       "abr": "pistoletàimpulsion",
       "category": "Armes à distance",
       "defname": "VWE_Gun_ChargePistol",
-      "price": -10
+      "price": 1008
     },
     {
       "abr": "pistoletàsilex",
       "category": "Armes à distance",
       "defname": "VWE_Gun_Flintlock",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "pistoletcryo",
       "category": "Armes cryo",
       "defname": "VFEV_CryptoPistol",
-      "price": -10
+      "price": 1450
     },
     {
       "abr": "pistoletfrontier",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_FrontierPistol",
-      "price": -10
+      "price": 318
     },
     {
       "abr": "pistoletlaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_LaserPistol",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "pistoletnonlétal",
       "category": "Armes à distance",
       "defname": "VWE_Gun_RubberBulletPistol",
-      "price": -10
+      "price": 175
     },
     {
       "abr": "pistolettaser",
       "category": "Armes à distance",
       "defname": "VWE_Gun_Taser",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "pistoletvolcanic",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_VolcanicPistol",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "pistolet-mitrailleuràimpulsion",
       "category": "Armes à distance",
       "defname": "VWE_Gun_ChargeSMG",
-      "price": -10
+      "price": 1508
     },
     {
       "abr": "pithhelmet",
@@ -12226,13 +12226,13 @@
       "abr": "poncho",
       "category": "Vêtements",
       "defname": "Apparel_Poncho_Westerado",
-      "price": -10
+      "price": 225
     },
     {
       "abr": "poncho",
       "category": "Vêtements",
       "defname": "RWP_Apparel_Poncho",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "poncho(western)",
@@ -12250,7 +12250,7 @@
       "abr": "popcorn",
       "category": "Aliments",
       "defname": "Popcorn_Westerado",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "porc-épic",
@@ -12544,7 +12544,7 @@
       "abr": "putoisàpiedsnoirs",
       "category": "Animaux",
       "defname": "AEXP_BlackFootedFerret",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "pyramid",
@@ -12808,7 +12808,7 @@
       "abr": "remingtonmodel1875",
       "category": "Armes à distance",
       "defname": "RNGun_Revolver_RemingtonSingleActionArmy",
-      "price": -10
+      "price": 226
     },
     {
       "abr": "repasdegourmet",
@@ -12904,19 +12904,19 @@
       "abr": "revolveràdoubleaction",
       "category": "Armes à distance",
       "defname": "VFES_Gun_DoubleActionRevolver",
-      "price": -10
+      "price": 244
     },
     {
       "abr": "revolvergauss",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_GaussRevolver",
-      "price": -10
+      "price": 908
     },
     {
       "abr": "revolverlourd",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_HeavyRevolver",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "rhinoceroshorn",
@@ -13354,7 +13354,7 @@
       "abr": "scarletedge",
       "category": "Armes de mêlée",
       "defname": "AM_Weebstick",
-      "price": -10
+      "price": 5833
     },
     {
       "abr": "schnapps",
@@ -13840,19 +13840,19 @@
       "abr": "smg",
       "category": "Armes à distance",
       "defname": "VWE_Gun_SMG",
-      "price": -10
+      "price": 558
     },
     {
       "abr": "smglaser",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_LaserSMG",
-      "price": -10
+      "price": 4000
     },
     {
       "abr": "smgléger",
       "category": "Armes à distance",
       "defname": "VWE_Gun_LightSMG",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "smilodon",
@@ -13930,13 +13930,13 @@
       "abr": "sombrero",
       "category": "Couvre-chefs",
       "defname": "VFES_Headgear_Sombrero",
-      "price": -10
+      "price": 97
     },
     {
       "abr": "sombrero",
       "category": "Couvre-chefs",
       "defname": "Apparel_SombreroHat_Westerado",
-      "price": -10
+      "price": 77
     },
     {
       "abr": "sombrero",
@@ -15250,43 +15250,43 @@
       "abr": "universalanimalclothes",
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalClothes",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "universalanimalflakarmor",
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalFlakArmor",
-      "price": -10
+      "price": 483
     },
     {
       "abr": "universalanimalflakhelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalAdvancedHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "universalanimalplatearmor",
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalPlateArmor",
-      "price": -10
+      "price": 792
     },
     {
       "abr": "universalanimalplatehelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalPlateHelmet",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "universalanimalpowerarmor",
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalPowerArmor",
-      "price": -10
+      "price": 3392
     },
     {
       "abr": "universalanimalpowerhelmet",
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalPowerArmorHelmet",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "universalpetscarf",
@@ -15913,10 +15913,34 @@
       "price": -10
     },
     {
+      "abr": "eyepatch",
+      "category": "Couvre-chefs",
+      "defname": "AM_Apparel_Eyepatch",
+      "price": 40
+    },
+    {
+      "abr": "corpserumvat",
+      "category": "Divers",
+      "defname": "AM_RumBurialSpot",
+      "price": 492
+    },
+    {
+      "abr": "finerum",
+      "category": "Drogues",
+      "defname": "AM_CorpseRumFine",
+      "price": 83
+    },
+    {
+      "abr": "suspiciousrum",
+      "category": "Drogues",
+      "defname": "AM_CorpseRumBasic",
+      "price": 25
+    },
+    {
       "abr": "zombrella",
       "category": "Divers",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "litroyald'invité",
@@ -15958,7 +15982,7 @@
       "abr": "cercueilmédicaliséd'invité",
       "category": "Divers",
       "defname": "DeathrestCasketGuest",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "berceaud'invité",
@@ -16036,7 +16060,7 @@
       "abr": "litergonomiquedoubled'invité",
       "category": "Meubles",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
+      "price": 867
     },
     {
       "abr": "litàbaldaquinroyald'invité",
@@ -16069,5 +16093,5 @@
       "price": -10
     }
   ],
-  "total": 2678
+  "total": 2682
 }
