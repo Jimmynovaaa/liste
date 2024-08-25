@@ -174,7 +174,7 @@
     },
     "description": null,
     "name": "Purchase list",
-    "usage": "!shop",
+    "usage": "!purchaselist",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PurchaseList"
@@ -192,7 +192,7 @@
     },
     "description": "Gives a viewer some of your coins.",
     "name": "Gift coins",
-    "usage": "!gift <viewer> <amount>",
+    "usage": "!giftcoins <viewer> <amount>",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "GiftCoins"
@@ -210,7 +210,7 @@
     },
     "description": null,
     "name": "Join queue",
-    "usage": "!join",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -340,6 +340,60 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "InstalledMods"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Sets the user's pawn's favorite color to the color specified. The color can be a name or a hexcode.",
+    "name": "Set favorite color",
+    "usage": "!setfavoritecolor <color>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "SetFavoriteColor"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Sets the user's pawn's favourite colour to the colour specified. The colour can be a name or a hex code.",
+    "name": "Set favourite colour",
+    "usage": "!setfavouritecolour <color>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "SetFavouriteColour"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Dye apparel",
+    "usage": "!dye",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "DyeApparel"
   },
   {
     "data": {
@@ -642,7 +696,7 @@
     },
     "description": null,
     "name": "Viewer kill count",
-    "usage": "!mykills",
+    "usage": "!mypawnkills",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnKills"
@@ -660,7 +714,7 @@
     },
     "description": "Shows your current stats within a given category.",
     "name": "Viewer stats",
-    "usage": "!mystats [stat1] [stat2]",
+    "usage": "!mypawnstats [stat1] [stat2]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnStats"
@@ -678,7 +732,7 @@
     },
     "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
     "name": "Viewer health",
-    "usage": "!myhealth [capacity]",
+    "usage": "!mypawnhealth [capacity]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnHealth"
@@ -696,7 +750,7 @@
     },
     "description": null,
     "name": "Viewer needs",
-    "usage": "!myneeds",
+    "usage": "!mypawnneeds",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnNeeds"
@@ -714,7 +768,7 @@
     },
     "description": "Shows an overview of your pawn's gear.",
     "name": "Viewer gear",
-    "usage": "!mygear",
+    "usage": "!mypawngear",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnGear"
@@ -732,7 +786,7 @@
     },
     "description": null,
     "name": "Viewer body",
-    "usage": "!mybody",
+    "usage": "!mypawnbody",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnBody"
@@ -750,7 +804,7 @@
     },
     "description": "Shows your pawn's work priorities.",
     "name": "Viewer work",
-    "usage": "!mywork [worktype=priority] [...]",
+    "usage": "!mypawnwork [worktype=priority] [...]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnWork"
@@ -768,7 +822,7 @@
     },
     "description": null,
     "name": "Viewer story",
-    "usage": "!mystory",
+    "usage": "!mypawnstory",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnStory"
@@ -786,7 +840,7 @@
     },
     "description": null,
     "name": "Viewer skills",
-    "usage": "!myskills",
+    "usage": "!mypawnskills",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnSkills"
@@ -858,7 +912,7 @@
     },
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
-    "usage": "!myrelations [viewer]",
+    "usage": "!mypawnrelations [viewer]",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PawnRelations"
@@ -1014,8 +1068,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 1800,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
@@ -1150,60 +1204,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Divorce"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Sets the user's pawn's favorite color to the color specified. The color can be a name or a hexcode.",
-    "name": "Set favorite color",
-    "usage": "!setfavoritecolor <color>",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "SetFavoriteColor"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Sets the user's pawn's favourite colour to the colour specified. The colour can be a name or a hex code.",
-    "name": "Set favourite colour",
-    "usage": "!setfavouritecolour <color>",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "SetFavouriteColour"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Dye apparel",
-    "usage": "!dye",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "DyeApparel"
   },
   {
     "data": {
