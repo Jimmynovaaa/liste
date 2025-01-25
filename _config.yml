@@ -73,4 +73,4 @@ mods:
 # We can re-use `sylhare/Type-on-Strap` once merged
 remote_theme: pocivaneuh/Type-on-Strap@dark-mode-improvements
 plugins:
-  -
+  - jekyll-remote-theme
